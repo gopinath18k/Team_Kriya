@@ -113,7 +113,7 @@ const Reachus = () => {
                         <iframe
                             title="Team Kriya Office Location Map"
                             className={`mapee ${mapVisible ? 'visible' : ''}`}
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3916.0612230211805!2d76.89752997369968!3d11.034033554392035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x275489eeb28f2419%3A0x5b9b13955026b9d!2sTeam%20Kriya!5e0!3m2!1sen!2sin!4v1722408690065!5m2!1sen!2sin"
+                            src="https://www.google.com/maps?q=38,+3rd+Cross+East,+Extension,+Vadavalli,+Sivakami+Nagar,+Coimbatore,+Tamil+Nadu+641007&output=embed"
                             width="570"
                             height="420"
                             allowFullScreen=""
@@ -131,7 +131,7 @@ const Reachus = () => {
                             <div className='add-icon-head'>
                                 <img className='add-icon' src={add} alt="Address Icon" />
                                 <p className='address-p'>
-                                    71/42, Vadavalli, Marutham Nagar, Coimbatore, Tamil Nadu 641041.
+                                    38, 3rd Cross East, Extension, Vadavalli, Sivakami Nagar, Coimbatore, Tamil Nadu 641007.
                                 </p>
                             </div>
                             <div className='add-icon-head'>

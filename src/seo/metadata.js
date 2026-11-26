@@ -15,10 +15,10 @@ export const SITE_CONFIG = {
   ],
   address: {
     '@type': 'PostalAddress',
-    streetAddress: '71/42, Vadavalli, Marutham Nagar',
+    streetAddress: '38, 3rd Cross East, Extension, Vadavalli, Sivakami Nagar',
     addressLocality: 'Coimbatore',
     addressRegion: 'Tamil Nadu',
-    postalCode: '641041',
+    postalCode: '641007',
     addressCountry: 'IN'
   }
 };
