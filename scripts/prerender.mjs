@@ -10,7 +10,7 @@ import {
   buildSchemaForPath,
   getCanonicalUrl,
   metadataMap
-} from '../src/seo/metadata.js';
+} from '../src/seo/metadata.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT_DIR = path.resolve(__dirname, '..');

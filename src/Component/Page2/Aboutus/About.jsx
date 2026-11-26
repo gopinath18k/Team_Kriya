@@ -106,7 +106,7 @@
             <p className='head1'>Hear About</p>
             <h1 className='head2'>Team Kriya!</h1>
 
-            <p className='head3-p'>Team Kriya is a <Link to="/digital-marketing-company-in-coimbatore" style={{ color: 'inherit', textDecoration: 'underline' }}>digital marketing agency in Coimbatore</Link> helping businesses strengthen their online presence through creative strategies and data-driven solutions. Our services include SEO, AEO, GEO, social media marketing, performance marketing, website development, graphic design, video editing, and videography, designed to improve brand visibility, connect with target audiences, and support sustainable business growth.  </p>
+            <p className='head3-p'>Team Kriya is a <Link to="/digital-marketing-company-in-coimbatore" style={{ color: 'inherit', textDecoration: 'none' }}>digital marketing agency in Coimbatore</Link> helping businesses strengthen their online presence through creative strategies and data-driven solutions. Our services include SEO, AEO, GEO, social media marketing, performance marketing, website development, graphic design, video editing, and videography, designed to improve brand visibility, connect with target audiences, and support sustainable business growth.  </p>
           </div>
 
           <div className="ab-section2 row">

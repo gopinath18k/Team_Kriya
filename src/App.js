@@ -1,3 +1,5 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './app.css';
 import { Route, Routes } from 'react-router-dom';
 import PageMetadata from './Component/PageMetadata';
 import Homee from './Component/Page1/Home/Home';

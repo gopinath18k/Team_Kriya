@@ -5,7 +5,7 @@ import {
   buildSchemaForPath,
   getCanonicalUrl,
   getRouteMetadata
-} from '../seo/metadata';
+} from '../seo/metadata.mjs';
 
 const PageMetadata = () => {
   const location = useLocation();
