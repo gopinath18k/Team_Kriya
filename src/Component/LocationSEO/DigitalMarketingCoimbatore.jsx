@@ -334,7 +334,7 @@ const DigitalMarketingCoimbatore = () => {
               method="post"
               className="loc-contact-form"
             >
-              <input type="hidden" name="recipient" value="hr@kriyareeths.com" />
+              <input type="hidden" name="recipient" value="hr@teamkriya.com" />
               <input type="hidden" name="source" value="Coimbatore Location SEO Landing Page" />
 
               <div className="loc-input-row">
@@ -417,7 +417,7 @@ const DigitalMarketingCoimbatore = () => {
             </div>
             <h3 className="success-modal-title">Submitted Successfully!</h3>
             <p className="success-modal-desc">
-              Thank you for reaching out to Kriya & Reeths. Our digital marketing team in Coimbatore will get in touch with you shortly.
+              Thank you for reaching out to Team Kriya. Our digital marketing team in Coimbatore will get in touch with you shortly.
             </p>
             <button
               className="success-modal-btn"

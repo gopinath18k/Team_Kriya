@@ -24,10 +24,10 @@ const SEOServicesCoimbatore = () => {
                 <div className="col-3 beer2-head">
                     <div className="tony-headb">
                         <div>
-                            <img className="tonyb" src={tony} alt="Kriya & Reeths" />
+                            <img className="tonyb" src={tony} alt="Team Kriya" />
                         </div>
                         <div className="tony-textb ">
-                            <h6>Kriya & Reeths</h6>
+                            <h6>Team Kriya</h6>
                             <p>Coimbatore</p>
                         </div>
                     </div>
@@ -40,7 +40,7 @@ const SEOServicesCoimbatore = () => {
                     <h6>Digital Marketing</h6>
 
                     <h1 className="mt-2">
-                    "SEO Services in Coimbatore - Grow your Business with Kriya & Reeths"
+                    "SEO Services in Coimbatore - Grow your Business with Team Kriya"
                     </h1>
 
                     <p className="mt-3">
@@ -50,16 +50,16 @@ const SEOServicesCoimbatore = () => {
                     Any well-made business website needs visibility, traffic, and conversions. Search Engine Optimization (SEO) helps businesses obtain higher Google rankings for their websites. A higher ranking attracts and converts prospects, hence increasing revenue. Coimbatore has become an emerging industrial hub with global competition. Without proper SEO strategy, your business website will be lost among thousands of others in search results.
                     </p>
                     <p>
-                    At Kriya & Reeths, we deliver the best SEO services in Coimbatore to help businesses obtain high search rankings. Being a reliable SEO company in Coimbatore, we apply data-driven strategies that suit your business needs. If you are looking for an expert firm to provide you with <Link to="/">SEO services in Coimbatore</Link>, Kriya & Reeths is your digital partner.
+                    At Team Kriya, we deliver the best SEO services in Coimbatore to help businesses obtain high search rankings. Being a reliable SEO company in Coimbatore, we apply data-driven strategies that suit your business needs. If you are looking for an expert firm to provide you with <Link to="/">SEO services in Coimbatore</Link>, Team Kriya is your digital partner.
                     </p>
 
                     <div className="mt-5"></div>
 
                     <p className="sub-head-par">
-                    <b>1. Why Choose Kriya & Reeths for SEO Services in Coimbatore?</b>
+                    <b>1. Why Choose Team Kriya for SEO Services in Coimbatore?</b>
                     </p>
                     <p>
-                    Choose the right SEO company in Coimbatore. At Kriya and Reeths, we deliver the best <Link to="/">SEO services in Coimbatore</Link> to rank your website high and drive real business growth. Here's why customers believe in Kriya & Reeths' SEO services:
+                    Choose the right SEO company in Coimbatore. At Team Kriya, we deliver the best <Link to="/">SEO services in Coimbatore</Link> to rank your website high and drive real business growth. Here's why customers believe in Team Kriya' SEO services:
                     </p>
 
                     <p>
@@ -73,7 +73,7 @@ const SEOServicesCoimbatore = () => {
                     <b>B. Unique SEO strategies for Every Business:</b>
                     </p>
                     <p>
-                    Every business has its own unique SEO strategy. At Kriya & Reeths, we conduct deep research about your industry, audience, and competitors to develop a personalized SEO plan that aligns with your business goals. Whatever your company is, we provide the <Link to="/">best SEO services in Coimbatore</Link> tailored according to your needs.
+                    Every business has its own unique SEO strategy. At Team Kriya, we conduct deep research about your industry, audience, and competitors to develop a personalized SEO plan that aligns with your business goals. Whatever your company is, we provide the <Link to="/">best SEO services in Coimbatore</Link> tailored according to your needs.
                     </p>
 
                     <p>
@@ -87,7 +87,7 @@ const SEOServicesCoimbatore = () => {
                     <b>D. Plans for every business affordable:</b>
                     </p>
                     <p>
-                    SEO must be available to businesses of all sizes. Kriya and Reeths offer affordable SEO packages to clients with maximum value. Our flexible pricing gets you the best SEO services in Coimbatore without breaking your budget.
+                    SEO must be available to businesses of all sizes. Team Kriya offer affordable SEO packages to clients with maximum value. Our flexible pricing gets you the best SEO services in Coimbatore without breaking your budget.
                     </p>
 
                     <p className="sub-head-par">
@@ -168,7 +168,7 @@ const SEOServicesCoimbatore = () => {
                     <b>3. How We Deliver Our SEO Services</b>
                     </p>
                     <p>
-                    At Kriya & Reeths, our 4-step approach guarantees that your business sees measurable growth and sustainable success.
+                    At Team Kriya, our 4-step approach guarantees that your business sees measurable growth and sustainable success.
                     </p>
                     <p>
                     <b>SEO Audit & Competitor Research:</b> A detailed SEO audit is conducted on your website to study website structure, content, and technical analysis. We identify keyword gaps, potential ranking opportunities, high-ranking competitors and their strategies.
@@ -187,32 +187,32 @@ const SEOServicesCoimbatore = () => {
                     <b>4. Why is Investing in SEO Necessary for Your Business?</b>
                     </p>
                     <p>
-                    Having a properly optimized website is a necessity in the modern world. At Kriya & Reeths, we offer <Link to="/">SEO Company in Coimbatore</Link> that will help your business excel in the ever-crowded virtual space. Investing in SEO gives you:
+                    Having a properly optimized website is a necessity in the modern world. At Team Kriya, we offer <Link to="/">SEO Company in Coimbatore</Link> that will help your business excel in the ever-crowded virtual space. Investing in SEO gives you:
                     </p>
                     <p>1. More Traffic to your Website as Compared to Brand Authority.</p>
                     <p>2. Better Return on Investment.</p>
                     <p>3. Sustainable and Organic Business Growth.</p>
                     <p>
-                    At Kriya & Reeths, we are able to create tailored SEO strategies that will enable businesses to scale and continuously grow.
+                    At Team Kriya, we are able to create tailored SEO strategies that will enable businesses to scale and continuously grow.
                     </p>
 
                     <p className="sub-head-par">
                     <b>5. FAQs about SEO Services in Coimbatore</b>
                     </p>
                     <p>
-                    At Kriya and Reeths, we strive to provide transparency by answering your questions. Here are some questions that most frequently come up about our <Link to="/">SEO Company in Coimbatore</Link>:
+                    At Team Kriya, we strive to provide transparency by answering your questions. Here are some questions that most frequently come up about our <Link to="/">SEO Company in Coimbatore</Link>:
                     </p>
                     <p>
                     <b>A. How long does it take for SEO results to be visible?</b>
                     </p>
                     <p>
-                    SEO is a long-term strategy that normally requires 3 to 6 months for any significant results to ever appear. It depends on industry competition, current website condition, degree of success of SEO strategies. At Kriya & Reeths, we ensure that our clients see consistent growth over time.
+                    SEO is a long-term strategy that normally requires 3 to 6 months for any significant results to ever appear. It depends on industry competition, current website condition, degree of success of SEO strategies. At Team Kriya, we ensure that our clients see consistent growth over time.
                     </p>
                     <p>
                     <b>B. How much do SEO services cost?</b>
                     </p>
                     <p>
-                    Within Coimbatore itself, the cost of SEO services varies according to the type of work, competition, and unique SEO goals. Kriya & Reeths provides affordable, tailor-fit SEO packages for companies of all sizes.
+                    Within Coimbatore itself, the cost of SEO services varies according to the type of work, competition, and unique SEO goals. Team Kriya provides affordable, tailor-fit SEO packages for companies of all sizes.
                     </p>
                     <p>
                     <b>C. Do you also offer local SEO services for small businesses?</b>
@@ -224,7 +224,7 @@ const SEOServicesCoimbatore = () => {
                     <p>2. Local keyword targeting.</p>
                     <p>3. Citation building and customer reviews.</p>
                     <p>
-                    At Kriya and Reeths, we enforce our services making startup or local businesses increase in more local customers and fast-track the growth of their business.
+                    At Team Kriya, we enforce our services making startup or local businesses increase in more local customers and fast-track the growth of their business.
                     </p>
                     <p>
                     <b>D. Will SEO assure me the Number #1 ranking on Google?</b>
@@ -233,13 +233,13 @@ const SEOServicesCoimbatore = () => {
                     Any ethical <Link to="/">SEO Company in Coimbatore</Link> would never guarantee number one results, as search engine algorithms change regularly. However, through the use of our special white-hat techniques, we can assure you better improvements in your rankings, visibility, and traffic over time.
                     </p>
                     <p>
-                    At Kriya & Reeths, we focus on long-term success with tested SEO methods that will surely increase your online presence and maximize conversions.
+                    At Team Kriya, we focus on long-term success with tested SEO methods that will surely increase your online presence and maximize conversions.
                     </p>
                     <p>
-                    <b>E. What do I need to get going with Kriya & Reeths?</b>
+                    <b>E. What do I need to get going with Team Kriya?</b>
                     </p>
                     <p>Getting started is a breeze! Just follow these steps:</p>
-                    <p>1. Schedule a consultation with Kriya & Reeths – We'll discuss your business goals with our specialists.</p>
+                    <p>1. Schedule a consultation with Team Kriya – We'll discuss your business goals with our specialists.</p>
                     <p>2. Get a Customized SEO Strategy – We will prepare a plan that fits your needs.</p>
                     <p>3. Watch your business grow – With us providing the best SEO services in Coimbatore, your website will gradually lift you up in the search rankings and improve revenue.</p>
                     <p>
@@ -253,7 +253,7 @@ const SEOServicesCoimbatore = () => {
                     It is a necessity rather than an option to invest in <Link to="/">SEO Company in Coimbatore</Link>, considering today's full-swing competition. Whether you're a startup or a local business or you're known as an established brand, search engine optimization places you ahead of the pack with organic traffic, bolstered brand authority, and improved conversions.
                     </p>
                     <p>
-                    Kriya & Reeths are here to offer the best in tailored SEO solutions for your business. As a trusted <Link to="/">SEO Company in Coimbatore</Link>, the company guarantees long-term growth and sustainable online success through its best use of ethical, white-hat SEO strategies.
+                    Team Kriya are here to offer the best in tailored SEO solutions for your business. As a trusted <Link to="/">SEO Company in Coimbatore</Link>, the company guarantees long-term growth and sustainable online success through its best use of ethical, white-hat SEO strategies.
                     </p>
 
                     <p>

@@ -24,10 +24,10 @@ const DigitalMarketingSaravanampatti = () => {
                 <div className="col-3 beer2-head">
                     <div className="tony-headb">
                         <div>
-                            <img className="tonyb" src={tony} alt="Kriya & Reeths" />
+                            <img className="tonyb" src={tony} alt="Team Kriya" />
                         </div>
                         <div className="tony-textb ">
-                            <h6>Kriya & Reeths</h6>
+                            <h6>Team Kriya</h6>
                             <p>Coimbatore</p>
                         </div>
                     </div>
@@ -44,7 +44,7 @@ const DigitalMarketingSaravanampatti = () => {
                     </h1>
 
                     <p className="mt-3">
-                    Saravanampatti is one of the fastest-growing tech hubs in Coimbatore, buzzing with IT companies, startups, and educational institutions. With businesses expanding rapidly, standing out in the digital space has become more important. A strong online presence helps attract customers, build trust, and drive growth. That's where digital marketing comes in—boosting visibility through SEO, social media, and targeted advertising. If you're searching for the <Link to="/">best digital marketing company in Saravanampatti, Coimbatore</Link>, <Link to="/">Kriya & Reeths</Link> is here to help with expert strategies designed to grow your business in today's competitive world.
+                    Saravanampatti is one of the fastest-growing tech hubs in Coimbatore, buzzing with IT companies, startups, and educational institutions. With businesses expanding rapidly, standing out in the digital space has become more important. A strong online presence helps attract customers, build trust, and drive growth. That's where digital marketing comes in—boosting visibility through SEO, social media, and targeted advertising. If you're searching for the <Link to="/">best digital marketing company in Saravanampatti, Coimbatore</Link>, <Link to="/">Team Kriya</Link> is here to help with expert strategies designed to grow your business in today's competitive world.
                     </p>
 
                     <div className="mt-5"></div>
@@ -258,14 +258,14 @@ const DigitalMarketingSaravanampatti = () => {
                     </p>
 
                     <p className="sub-head-par">
-                    <b>3. What Makes Kriya & Reeths the Best Digital Marketing Agency in Coimbatore?</b>
+                    <b>3. What Makes Team Kriya the Best Digital Marketing Agency in Coimbatore?</b>
                     </p>
 
                     <p>
-                    Choosing the right digital marketing partner can make or break your online success. With businesses becoming increasingly competitive, you need a trusted expert who understands your market, audience, and goals. That's where <Link to="/">Kriya & Reeths</Link> stands out as a leading <Link to="/">digital marketing company in Saravanampatti, Coimbatore</Link>.
+                    Choosing the right digital marketing partner can make or break your online success. With businesses becoming increasingly competitive, you need a trusted expert who understands your market, audience, and goals. That's where <Link to="/">Team Kriya</Link> stands out as a leading <Link to="/">digital marketing company in Saravanampatti, Coimbatore</Link>.
                     </p>
                     <p>
-                    <b>Why Do Businesses Trust Kriya & Reeths?</b>
+                    <b>Why Do Businesses Trust Team Kriya?</b>
                     </p>
                     <p>
                     ✅ <b>Years of Industry Experience:</b> We have a demonstrated record of helping businesses grow online and realize long-term success across different industries.
@@ -288,7 +288,7 @@ const DigitalMarketingSaravanampatti = () => {
                     </p>
 
                     <p>
-                    Choosing the appropriate <Link to="/">digital marketing company in Saravanampatti, Coimbatore</Link>, is important for your business growth and enhancing visibility, lead generation, and branding efforts. <Link to="/">Kriya & Reeths</Link> offer tailored digital marketing solutions like SEO, social media marketing, PPC, and content strategies according to the customer's needs. Let us take care of your online presence and astronomical results. Contact us today: <Link to="/reach">https://kriyareeths.com/reach</Link>.
+                    Choosing the appropriate <Link to="/">digital marketing company in Saravanampatti, Coimbatore</Link>, is important for your business growth and enhancing visibility, lead generation, and branding efforts. <Link to="/">Team Kriya</Link> offer tailored digital marketing solutions like SEO, social media marketing, PPC, and content strategies according to the customer's needs. Let us take care of your online presence and astronomical results. Contact us today: <Link to="/reach">https://teamkriya.com/reach</Link>.
                     </p>
 
                     <div className="pb-5"></div>

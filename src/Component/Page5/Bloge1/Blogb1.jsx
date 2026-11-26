@@ -24,10 +24,10 @@ const Blogbe1 = () => {
         <div className="col-3 beer2-head">
           <div className="tony-headb">
             <div>
-              <img className="tonyb" src={tony} alt="Kriya & Reeths" />
+              <img className="tonyb" src={tony} alt="Team Kriya" />
             </div>
             <div className="tony-textb ">
-              <h6>Kriya & Reeths</h6>
+              <h6>Team Kriya</h6>
               <p>Coimbatore</p>
             </div>
           </div>
@@ -137,10 +137,10 @@ const Blogbe1 = () => {
         </p>
 
         <p className="sub-head-par">
-          <b>5. Why Kriya & Reeths Stands Out as a Digital Marketing Company in Coimbatore:</b>
+          <b>5. Why Team Kriya Stands Out as a Digital Marketing Company in Coimbatore:</b>
         </p>
         <p>
-          At Kriya & Reeths, we pride ourselves on being one of the <Link to="/">best digital marketing company in Coimbatore</Link>. Here's why:
+          At Team Kriya, we pride ourselves on being one of the <Link to="/">best digital marketing company in Coimbatore</Link>. Here's why:
         </p>
         <p>
           <b>Experienced Team</b>
@@ -174,7 +174,7 @@ const Blogbe1 = () => {
           <b>Check Reviews and Testimonials:</b> Client feedback is invaluable. Take the time to read reviews or ask the company for testimonials. Real-world experiences can give you a clear picture of how they work, their reliability, and whether their services have produced positive results for other businesses.
         </p>
         <p>
-          <b>Request Case Studies:</b> Case studies are like a <Link href="#">portfolio</Link> of the company's past work. They show how the agency has handled different challenges and what kind of results they've achieved. Reviewing these can give you a deeper understanding of their approach and capabilities, so you can gauge whether they'll be a good fit for your needs.
+          <b>Request Case Studies:</b> Case studies are like a <Link to="/portfolio">portfolio</Link> of the company's past work. They show how the agency has handled different challenges and what kind of results they've achieved. Reviewing these can give you a deeper understanding of their approach and capabilities, so you can gauge whether they'll be a good fit for your needs.
         </p>
         <p>
           <b>Communication is Key:</b> A <Link to="/">digital marketing company in Coimbatore</Link> will always keep you in the loop. They should be responsive and provide regular updates on the progress of your campaigns. Clear communication ensures that you're both on the same page, making collaboration smoother and more effective.
@@ -187,7 +187,7 @@ const Blogbe1 = () => {
           <b>7. Common Mistakes to Avoid in Digital Marketing:</b>
         </p>
         <p>
-          If you're working with the <Link href="#"to="/">best digital marketing company in Coimbatore</Link>, it's important to avoid common pitfalls that can hinder your marketing success. Here are a few mistakes to steer clear of:
+          If you're working with the <Link to="/digital-marketing-company-in-coimbatore">best digital marketing company in Coimbatore</Link>, it's important to avoid common pitfalls that can hinder your marketing success. Here are a few mistakes to steer clear of:
         </p>
         <p>
           <b>Not Defining Target Audience:</b> Failing to identify and understand your target audience can lead to ineffective marketing efforts.
@@ -238,7 +238,7 @@ const Blogbe1 = () => {
           <b>10. Conclusion :</b>
         </p>
         <p>
-          Choosing a <Link to="/">digital marketing company in Coimbatore</Link> doesn't have to be complicated. By understanding your needs and researching potential partners, you'll find the perfect fit for boosting your online presence. At <Link href="#">Kriya & Reeths</Link>, we are dedicated to providing <Link href="#">digital marketing company in Coimbatore</Link> that propel your business forward.
+          Choosing a <Link to="/digital-marketing-company-in-coimbatore">digital marketing company in Coimbatore</Link> doesn't have to be complicated. By understanding your needs and researching potential partners, you'll find the perfect fit for boosting your online presence. At <Link to="/">Team Kriya</Link>, we are dedicated to providing <Link to="/services">digital marketing services in Coimbatore</Link> that propel your business forward.
         </p>
         <p>
           For more information, don't hesitate to <Link to="/reach">reach out to us</Link>.

@@ -87,7 +87,7 @@ const Blog = () => {
         data-aos-duration="1300">
           <h1 className='head2'>Blog</h1>
 
-          <p className='head3-p'>Explore the latest digital marketing trends, SEO strategies, and online growth insights with Kriya & Reeths. Our digital marketing blog in Coimbatore provides practical tips and expert insights on search engine optimization (SEO), Answer Engine Optimization (AEO), Generative Engine Optimization (GEO), social media marketing, website development, and content creation to help businesses strengthen their online presence.</p>
+          <p className='head3-p'>Explore the latest digital marketing trends, SEO strategies, and online growth insights with Team Kriya. Our digital marketing blog in Coimbatore provides practical tips and expert insights on search engine optimization (SEO), Answer Engine Optimization (AEO), Generative Engine Optimization (GEO), social media marketing, website development, and content creation to help businesses strengthen their online presence.</p>
         </div> 
 
         <div className='blog-section2'>
@@ -109,7 +109,7 @@ const Blog = () => {
                     <div className='tony-head'>
                         <div><img className='tony' src={tony} alt="digital marketing company in coimbatore" /></div>
                         <div className='tony-text '>
-                            <h6>Kriya & Reeths</h6>
+                            <h6>Team Kriya</h6>
                             <p>Coimbatore</p>
                         </div>
                     </div>
@@ -146,7 +146,7 @@ const Blog = () => {
                             data-aos-duration="1300">
                             <div className='main-input'>
                                 <form method='post' action="https://script.google.com/macros/s/AKfycbxuNPBVbEb7HV7wtPXtm5qREUJ7ROXNcYA9GDIt44_oaNE754uEawynbIRsM9uwNlfLCg/exec" name='contact-form' onSubmit={handleSubmit}>
-                                    <input type="hidden" name="recipient" value="hr@kriyareeths.com" />
+                                    <input type="hidden" name="recipient" value="hr@teamkriya.com" />
                                     <div className='input-one'>
                                         <div className={`floating-label-input ${isFocusedName || inputValueName ? 'focused' : ''}`}>
                                             <label className="floating-label">Name</label>

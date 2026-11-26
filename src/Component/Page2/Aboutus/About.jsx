@@ -1,4 +1,5 @@
   import { useEffect, useState } from 'react';
+  import { Link } from 'react-router-dom';
   import '../../Page2/Light-placeholder/Lplacehold.css'
   import './About.css'
   import founder1 from '../../../images/founder1.webp'
@@ -103,9 +104,9 @@
           <div className='ab-section1' id='about' data-aos="fade-up"
             data-aos-duration="1300">
             <p className='head1'>Hear About</p>
-            <h1 className='head2'>Kriya & Reeths!</h1>
+            <h1 className='head2'>Team Kriya!</h1>
 
-            <p className='head3-p'>Kriya & Reeths is a digital marketing agency in Coimbatore helping businesses strengthen their online presence through creative strategies and data-driven solutions. Our services include SEO, AEO, GEO, social media marketing, performance marketing, website development, graphic design, video editing, and videography, designed to improve brand visibility, connect with target audiences, and support sustainable business growth.  </p>
+            <p className='head3-p'>Team Kriya is a <Link to="/digital-marketing-company-in-coimbatore" style={{ color: 'inherit', textDecoration: 'underline' }}>digital marketing agency in Coimbatore</Link> helping businesses strengthen their online presence through creative strategies and data-driven solutions. Our services include SEO, AEO, GEO, social media marketing, performance marketing, website development, graphic design, video editing, and videography, designed to improve brand visibility, connect with target audiences, and support sustainable business growth.  </p>
           </div>
 
           <div className="ab-section2 row">
@@ -119,7 +120,7 @@
               data-aos-duration="1300">
               <div className='leader-sub'>
                 <h2>Leadership</h2>
-                <p>Kriya & Reeths is led by visionary founders with a passion for digital excellence. Their expertise drives our commitment to delivering top-tier digital marketing solutions in Coimbatore. </p>
+                <p>Team Kriya is led by visionary founders with a passion for digital excellence. Their expertise drives our commitment to delivering top-tier digital marketing solutions in Coimbatore. </p>
               </div>
             </div>
             <div className="col-12 founder-main col-sm-5 " data-aos="fade-left"
@@ -128,8 +129,8 @@
 
                 <img className='founder2' src={founder2} alt="digital marketing company in coimbatore - Founder" />
                 <img className='founder1' src={founder1} alt="branding agency in coimbatore - Founder" />
-                <img className='keer' src={keer} alt="Kriya & Reeths Team" />
-                <img className='reva' src={reva} alt="Kriya & Reeths Team" />
+                <img className='keer' src={keer} alt="Team Kriya Team" />
+                <img className='reva' src={reva} alt="Team Kriya Team" />
 
 
               </div>
@@ -200,7 +201,7 @@
                 <div className='vbdy-text-sub '>
                   <h2 className='hd1-two pulsee'>Pulse Polio</h2>
                   <h3>Immunization Drive 2024</h3>
-                  <p>We proudly participated as a team in the Pulse Polio Immunisation Drive 2024, reinforcing our commitment to community health and well-being at Kriya Reeths.</p>
+                  <p>We proudly participated as a team in the Pulse Polio Immunisation Drive 2024, reinforcing our commitment to community health and well-being at Team Kriya.</p>
                 </div>
               </div>
 
@@ -223,7 +224,7 @@
 
               <div className="vbdy-frame col-12 col-sm-5 order-1 order-sm-2">
                 <div className='vbdy-frame-sub'>
-                  <img src={Onam} alt="Onam Celebration at Kriya & Reeths" />
+                  <img src={Onam} alt="Onam Celebration at Team Kriya" />
                 </div>
               </div>
             </div>
@@ -239,7 +240,7 @@
 
               <div className="vbdy-frame col-12 col-sm-5 order-1 order-sm-2">
                 <div className='vbdy-frame-sub'>
-                  <img src={Diwali} alt="Diwali Celebration at Kriya & Reeths" />
+                  <img src={Diwali} alt="Diwali Celebration at Team Kriya" />
                 </div>
               </div>
             </div>
@@ -255,7 +256,7 @@
 
               <div className="vbdy-frame col-12 col-sm-5 order-1 order-sm-2">
                 <div className='vbdy-frame-sub'>
-                  <img src={NewYear} alt="New Year Celebration at Kriya & Reeths" />
+                  <img src={NewYear} alt="New Year Celebration at Team Kriya" />
                 </div>
               </div>
             </div>
@@ -272,7 +273,7 @@
 
               <div className="vbdy-frame col-12 col-sm-5 order-1 order-sm-2">
                 <div className='vbdy-frame-sub'>
-                  <img src={TeamOut} alt="Team Outing at Kriya & Reeths" />
+                  <img src={TeamOut} alt="Team Outing at Team Kriya" />
                 </div>
               </div>
             </div>
@@ -318,7 +319,7 @@
                 data-aos-duration="1300">
                 <div className='main-input-container-new'>
                 <form action="https://script.google.com/macros/s/AKfycbxuNPBVbEb7HV7wtPXtm5qREUJ7ROXNcYA9GDIt44_oaNE754uEawynbIRsM9uwNlfLCg/exec" name='contact-form' onSubmit={handleSubmit} method='post'>
-                  <input type="hidden" name="recipient" value="hr@kriyareeths.com" />
+                  <input type="hidden" name="recipient" value="hr@teamkriya.com" />
                   <div className='input-group-new'>
             <div className={`floating-label-input-name ${isFocusedName || inputValueName ? 'focused-name' : ''}`}>
             <label className="floating-label-name">Name</label>

@@ -495,7 +495,7 @@ const SeoAeoGeo = () => {
                   onSubmit={handleSubmit}
                   method="post"
                 >
-                  <input type="hidden" name="recipient" value="hr@kriyareeths.com" />
+                  <input type="hidden" name="recipient" value="hr@teamkriya.com" />
                   <div className="input-group-new">
                     <div
                       className={`floating-label-input-name ${

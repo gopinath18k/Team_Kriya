@@ -24,10 +24,10 @@ const BestBrandingCompany = () => {
                 <div className="col-3 beer2-head">
                     <div className="tony-headb">
                         <div>
-                            <img className="tonyb" src={tony} alt="Kriya & Reeths" />
+                            <img className="tonyb" src={tony} alt="Team Kriya" />
                         </div>
                         <div className="tony-textb ">
-                            <h6>Kriya & Reeths</h6>
+                            <h6>Team Kriya</h6>
                             <p>Coimbatore</p>
                         </div>
                     </div>
@@ -40,7 +40,7 @@ const BestBrandingCompany = () => {
                     <h6>Digital Marketing</h6>
 
                     <h1 className="mt-2">
-                    "Best Branding Company in Coimbatore: Build a Powerful Brand with Kriya & Reeths"
+                    "Best Branding Company in Coimbatore: Build a Powerful Brand with Team Kriya"
                     </h1>
 
                     <p className="mt-3">
@@ -111,11 +111,11 @@ const BestBrandingCompany = () => {
                     </p>
 
                     <p className="sub-head-par">
-                    <b>3. Our Branding Services at Kriya & Reeths</b>
+                    <b>3. Our Branding Services at Team Kriya</b>
                     </p>
 
                     <p>
-                    At Kriya & Reeths, we understand that branding is more than just a logo—it's the essence of your business. A well-crafted brand builds trust, attracts customers, and sets you apart from competitors. As a leading <Link to="/">branding company in Coimbatore</Link>, we offer expert branding solutions that help businesses create a strong identity and lasting impact. Whether you are launching a new brand or refreshing an existing one, our team ensures that your brand stands out.
+                    At Team Kriya, we understand that branding is more than just a logo—it's the essence of your business. A well-crafted brand builds trust, attracts customers, and sets you apart from competitors. As a leading <Link to="/">branding company in Coimbatore</Link>, we offer expert branding solutions that help businesses create a strong identity and lasting impact. Whether you are launching a new brand or refreshing an existing one, our team ensures that your brand stands out.
                     </p>
                     <p>
                     <b>Brand Visibility:</b> Reach a wider audience and get noticed online.
@@ -136,23 +136,23 @@ const BestBrandingCompany = () => {
                     <b>5. Rebranding & Brand Refresh Services:</b> If your brand feels outdated or no longer resonates with your audience, we offer rebranding solutions that give your business a fresh new look. Whether it's refining your brand messaging, updating visuals, or redefining your identity, our rebranding services ensure your brand stays relevant in a competitive market.
                     </p>
                     <p>
-                    At Kriya & Reeths, we believe that great branding is the key to long-term business success. If you're looking for expert branding services, partner with the <Link to="/">best branding company in Coimbatore</Link> and let's create a brand that truly represents your business!
+                    At Team Kriya, we believe that great branding is the key to long-term business success. If you're looking for expert branding services, partner with the <Link to="/">best branding company in Coimbatore</Link> and let's create a brand that truly represents your business!
                     </p>
 
                     <p className="sub-head-par">
-                    <b>4. Why Kriya & Reeths is the Best Branding Company in Coimbatore?:</b>
+                    <b>4. Why Team Kriya is the Best Branding Company in Coimbatore?:</b>
                     </p>
 
                     <p>
-                    At Kriya & Reeths, we help businesses create strong, memorable brands that truly connect with their audience. With years of experience, we offer end-to-end branding solutions, including strategy, logo design, website development, and social media branding. Our data-driven approach ensures that every branding decision is based on market insights, while our client-first strategy focuses on creating a brand that reflects your business goals. Whether you're launching a new brand or giving your existing one a fresh look, we're here to make your brand stand out. If you're searching for the <Link to="/">best branding company in Coimbatore</Link>, Kriya & Reeths is your trusted partner—let's bring your brand vision to life. Contact us today!
+                    At Team Kriya, we help businesses create strong, memorable brands that truly connect with their audience. With years of experience, we offer end-to-end branding solutions, including strategy, logo design, website development, and social media branding. Our data-driven approach ensures that every branding decision is based on market insights, while our client-first strategy focuses on creating a brand that reflects your business goals. Whether you're launching a new brand or giving your existing one a fresh look, we're here to make your brand stand out. If you're searching for the <Link to="/">best branding company in Coimbatore</Link>, Team Kriya is your trusted partner—let's bring your brand vision to life. Contact us today!
                     </p>
 
                     <p className="sub-head-par">
-                    <b>5. Conclusion: Take Your Brand to the Next Level with Kriya & Reeths:</b>
+                    <b>5. Conclusion: Take Your Brand to the Next Level with Team Kriya:</b>
                     </p>
 
                     <p>
-                    Building a strong brand is essential for business success, and at <Link to="/">Kriya & Reeths</Link>, we specialize in creating brands that leave a lasting impression. Whether you're a startup or an established business, our expert branding solutions will help you stand out, build trust, and connect with your audience.
+                    Building a strong brand is essential for business success, and at <Link to="/">Team Kriya</Link>, we specialize in creating brands that leave a lasting impression. Whether you're a startup or an established business, our expert branding solutions will help you stand out, build trust, and connect with your audience.
                     </p>
                     <p>
                     If you're searching for a <Link to="/">branding company in Coimbatore</Link> that truly understands your vision and can bring it to life, we're here to help. Let's work together to craft a brand that reflects your business values and drives growth.

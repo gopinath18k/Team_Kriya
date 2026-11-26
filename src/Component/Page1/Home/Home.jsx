@@ -160,7 +160,7 @@ const Homee = () => {
                             <h1 className='abm-text'><span className='less-tp'></span>Digital Marketing Company<span className='less-w'>in Coimbatore</span></h1>
                         </div>
                         <div className='but-home'>
-                            <p>Looking to grow your business online? Kriya & Reeths helps brands improve visibility, reach the right audience, and build a strong digital presence through creative strategies and data-driven marketing. Our services include SEO, social media marketing, performance marketing, website development, and branding solutions tailored to your business goals.</p>
+                            <p>Looking to grow your business online? Team Kriya helps brands improve visibility, reach the right audience, and build a strong digital presence through creative strategies and data-driven marketing. Our services include SEO, social media marketing, performance marketing, website development, and branding solutions tailored to your business goals.</p>
                         </div>
                         <a href="#joinus" className='abt-but'>Grow Now</a>
 
@@ -234,7 +234,7 @@ const Homee = () => {
                             data-aos-duration="1300">
                             <div className='main-input'>
                                 <form method='post' action="https://script.google.com/macros/s/AKfycbxuNPBVbEb7HV7wtPXtm5qREUJ7ROXNcYA9GDIt44_oaNE754uEawynbIRsM9uwNlfLCg/exec" name='contact-form' onSubmit={handleSubmit}>
-                                    <input type="hidden" name="recipient" value="hr@kriyareeths.com" />
+                                    <input type="hidden" name="recipient" value="hr@teamkriya.com" />
                                     <div className='input-one'>
                                         <div className={`floating-label-input ${isFocusedName || inputValueName ? 'focused' : ''}`}>
                                             <label className="floating-label">Name</label>
@@ -284,7 +284,6 @@ const Homee = () => {
                             data-aos-duration="1300" /></div>
                                 </form>
                             </div>
-                            <sript src='Google Sheet.js'></sript>
                         </div>
 
 

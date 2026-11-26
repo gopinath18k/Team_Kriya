@@ -24,10 +24,10 @@ const Blogbe2 = () => {
         <div className="col-3 beer2-head">
           <div className="tony-headb">
             <div>
-              <img className="tonyb" src={tony} alt="Kriya & Reeths" />
+              <img className="tonyb" src={tony} alt="Team Kriya" />
             </div>
             <div className="tony-textb ">
-              <h6>Kriya & Reeths</h6>
+              <h6>Team Kriya</h6>
               <p>Coimbatore</p>
             </div>
           </div>

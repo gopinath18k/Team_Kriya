@@ -31,28 +31,28 @@ const Footerel = () => {
           </div>
                 <div className="col  fot-sec1" >
                     <div className='fot-link-header'>
-                <Link className='link1 ' to='/' onClick={() => scrollToSection('home')}><li>Home</li></Link>   
-              <Link className='link1 'onClick={() => scrollToSection('/about')} ><li>About us</li></Link>
-              <Link className='link1 ' to='/services' onClick={() => scrollToSection('#home')} ><li>Services</li></Link>
-              <Link className='link1 ' to='/portfolio' onClick={() => scrollToSection('home')}><li>Portfolio</li></Link>
-              <Link className='link1 ' to='/blog' onClick={() => scrollToSection('home')} ><li>Blog</li></Link>
-              <Link className='link1 ' to='/careers' onClick={() => scrollToSection('home')}><li>Careers</li></Link>
-              <Link className='link1 ' to='/reach' onClick={() => scrollToSection('home')}><li>Reach Us</li></Link>
+                <Link className='link1 ' to='/'><li>Home</li></Link>   
+              <Link className='link1 ' to='/about'><li>About us</li></Link>
+              <Link className='link1 ' to='/services'><li>Services</li></Link>
+              <Link className='link1 ' to='/portfolio'><li>Portfolio</li></Link>
+              <Link className='link1 ' to='/blog'><li>Blog</li></Link>
+              <Link className='link1 ' to='/careers'><li>Careers</li></Link>
+              <Link className='link1 ' to='/reach'><li>Reach Us</li></Link>
                     </div>
                     <div><p className='fot-para-main'>Let's create digital magic together! Driving results through creative digital solutions. Contact us to start your digital journey.</p></div>
-                    <div className='f-icon'><a href="https://www.instagram.com/teamkriya/"><img src={fi1} alt="Instagram" /></a><a href="https://www.facebook.com/p/Kriya-Reeths-100092974173622/"><img src={fi2} alt="Facebook" /></a><a href="https://in.linkedin.com/company/kriya-reeths"><img src={fi3} alt="LinkedIn" /></a><a href="https://in.pinterest.com/kriyareeths/"><img src={fi4} alt="Pinterest" /></a><a href="https://www.youtube.com/results?search_query=kriyareeths"><img src={fi5} alt="YouTube" /></a></div>
+                    <div className='f-icon'><a href="https://www.instagram.com/teamkriya/" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><img src={fi1} alt="Instagram" /></a><a href="https://www.facebook.com/p/Kriya-Reeths-100092974173622/" target="_blank" rel="noopener noreferrer" aria-label="Facebook"><img src={fi2} alt="Facebook" /></a><a href="https://in.linkedin.com/company/kriya-reeths" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><img src={fi3} alt="LinkedIn" /></a><a href="https://in.pinterest.com/kriyareeths/" target="_blank" rel="noopener noreferrer" aria-label="Pinterest"><img src={fi4} alt="Pinterest" /></a><a href="https://www.youtube.com/results?search_query=teamkriya" target="_blank" rel="noopener noreferrer" aria-label="YouTube"><img src={fi5} alt="YouTube" /></a></div>
                     
                 </div>
                 <div className="col order-sm-2" >
                    <div className='contact-container fot-sec2 '>
                    <h2 className='contac-us'>Contact Us</h2>
-                   <div className='call-main' ><img className="call" src={call} alt="Phone Contact" /><div><a href=''>(+91) 73059 79061  <span className='light-stick'>|</span></a> <a href="">(+91) 73059 79062</a></div></div>
-                   <div className='mail-main' ><img className="mail" src={mail} alt="Email Contact" /><a href="">info@kriyareeths.com</a></div>
-                   <div className='f-icon-mb'><a href="https://www.instagram.com/teamkriya/"><img src={fi1} alt="Instagram" /></a><a href="https://www.facebook.com/p/Kriya-Reeths-100092974173622/"><img src={fi2} alt="Facebook" /></a><a href="https://in.linkedin.com/company/kriya-reeths"><img src={fi3} alt="LinkedIn" /></a><a href="https://in.pinterest.com/kriyareeths/"><img src={fi4} alt="Pinterest" /></a><a href="https://www.youtube.com/results?search_query=kriyareeths"><img src={fi5} alt="YouTube" /></a></div>
+                   <div className='call-main' ><img className="call" src={call} alt="Phone Contact" /><div><a href='tel:+917305979061'>(+91) 73059 79061  <span className='light-stick'>|</span></a> <a href="tel:+917305979062">(+91) 73059 79062</a></div></div>
+                   <div className='mail-main' ><img className="mail" src={mail} alt="Email Contact" /><a href="mailto:info@teamkriya.com">info@teamkriya.com</a></div>
+                   <div className='f-icon-mb'><a href="https://www.instagram.com/teamkriya/" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><img src={fi1} alt="Instagram" /></a><a href="https://www.facebook.com/p/Kriya-Reeths-100092974173622/" target="_blank" rel="noopener noreferrer" aria-label="Facebook"><img src={fi2} alt="Facebook" /></a><a href="https://in.linkedin.com/company/kriya-reeths" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><img src={fi3} alt="LinkedIn" /></a><a href="https://in.pinterest.com/kriyareeths/" target="_blank" rel="noopener noreferrer" aria-label="Pinterest"><img src={fi4} alt="Pinterest" /></a><a href="https://www.youtube.com/results?search_query=teamkriya" target="_blank" rel="noopener noreferrer" aria-label="YouTube"><img src={fi5} alt="YouTube" /></a></div>
                    </div>
                 </div>
             </div>
-            <div className='copy-rightss1' ><p>Copyright © 2024 -  All rights reserved by <span>Kriya & Reeths</span></p></div>
+            <div className='copy-rightss1' ><p>Copyright © 2026 -  All rights reserved by <span>Team Kriya</span></p></div>
         </div>
     )
 }

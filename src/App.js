@@ -1,6 +1,3 @@
-import { useState, useEffect } from 'react';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import './app.css';
 import { Route, Routes } from 'react-router-dom';
 import PageMetadata from './Component/PageMetadata';
 import Homee from './Component/Page1/Home/Home';
@@ -14,7 +11,6 @@ import Portfolioo from './Component/Page4/Portfolio';
 import Arrow from './Component/Page1/Arrow/Arrow';
 import Whatsapp from './Component/Whatsapp/Whatsapp';
 import Instagram from './Component/Instagram/Instagram';
-import Preloadere from './Component/Preloaderr/loader';
 import Blogbe from './Component/Page5/Bloge/Blogb';
 import Blogbe1 from './Component/Page5/Bloge1/Blogb1';
 import Blogbe2 from './Component/Page5/Bloge2/Blogb2';
@@ -37,70 +33,51 @@ import VideoEditing from './Component/Page3/VideoEditing/VideoEditing';
 import GraphicDesign from './Component/Page3/GraphicDesign/GraphicDesign';
 import Videography from './Component/Page3/Videography/Videography';
 import DigitalMarketingCoimbatore from './Component/LocationSEO/DigitalMarketingCoimbatore';
+import NotFound from './Component/NotFound/NotFound';
 
 
 
 function App() {
-  const [loading, setLoading] = useState(true);
-
-  useEffect(() => {
-
-    setTimeout(() => {
-      setLoading(false);
-    }, 0);
-  }, []);
-
   return (
     <div className='app'>
       <PageMetadata />
-      {loading ? (
-        <Preloadere />
-      ) : (
-        <>
-          <Navbare />
+      <Navbare />
 
-          <Routes>
-            <Route path="/" element={<Homee />} />
-            <Route path="/about" element={<Aboute />} />
-            <Route path="/services" element={<Services />} />
-            <Route path="/services/social-media-marketing" element={<SMMService />} />
-            <Route path="/services/performance-marketing" element={<PerformanceMarketing />} />
-            <Route path="/services/website-development" element={<WebDevelopment />} />
-            <Route path="/services/seo-aeo-geo" element={<SeoAeoGeo />} />
-            <Route path="/services/video-editing" element={<VideoEditing />} />
-            <Route path="/services/graphic-design" element={<GraphicDesign />} />
-            <Route path="/services/videography" element={<Videography />} />
-            <Route path="/portfolio" element={<Portfolioo />} />
-            <Route path="/blog" element={<Blog />} />
-            <Route path="/careers" element={<Careers />} />
-            <Route path="/reach" element={<Reachus />} />
-            <Route path="/blog/digital-marketing-a-boon-or-bane" element={<Blogbe />} />
-            <Route path="/blog/digital-marketing-company-in-coimbatore" element={<Blogbe1 />} />
-            <Route path="/blog/significance-of-digital-marketing" element={<Blogbe2 />} />
-            <Route path="/blog/why-professional-advertising-is-still-essential-for-business-growth-in-2026" element={<Blogbe3 />} />
-            <Route path="/blog/effective-social-media-marketing-services-in-coimbatore" element={<SocialMediaMarketingServices />} />
-            <Route path="/blog/best-website-development-company-in-coimbatore" element={<WebsiteDevelopmentCompany />} />
-            <Route path="/blog/digital-marketing-company-in-gandhipuram-coimbatore" element={<OutlineForLongForm/>} />
-            <Route path="/blog/digital-marketing-company-in-rs-puram-coimbatore" element={<DigitalMarketingRspuram/>} />
-            <Route path="/blog/digital-marketing-company-in-peelamedu-coimbatore" element={<DigitalMarketingPeelamedu/>} />
-            <Route path="/blog/best-digital-marketing-agency-in-coimbatore" element={<DigitalMarketingAgency/>} />
-            <Route path="/blog/digital-marketing-saravanampatti-in-coimbatore" element={<DigitalMarketingSaravanampatti/>} />
-            <Route path="/blog/digital-marketing-pollachi-in-coimbatore" element={<DigitalMarketingPollachi/>} />
-            <Route path="/blog/best-branding-company-in-coimbatore" element={<BestBrandingCompany/>} />
-            <Route path="/blog/best-seo-services-in-coimbatore" element={<SEOServicesCoimbatore/>} />
-            <Route path="/digital-marketing-company-in-coimbatore" element={<DigitalMarketingCoimbatore />} />
-          </Routes>
-          <Arrow />
-          <Whatsapp />
-          <Instagram />
-
-
-
-        </>
-      )}
-
-
-
+      <Routes>
+        <Route path="/" element={<Homee />} />
+        <Route path="/about" element={<Aboute />} />
+        <Route path="/services" element={<Services />} />
+        <Route path="/services/social-media-marketing" element={<SMMService />} />
+        <Route path="/services/performance-marketing" element={<PerformanceMarketing />} />
+        <Route path="/services/website-development" element={<WebDevelopment />} />
+        <Route path="/services/seo-aeo-geo" element={<SeoAeoGeo />} />
+        <Route path="/services/video-editing" element={<VideoEditing />} />
+        <Route path="/services/graphic-design" element={<GraphicDesign />} />
+        <Route path="/services/videography" element={<Videography />} />
+        <Route path="/portfolio" element={<Portfolioo />} />
+        <Route path="/blog" element={<Blog />} />
+        <Route path="/careers" element={<Careers />} />
+        <Route path="/reach" element={<Reachus />} />
+        <Route path="/blog/digital-marketing-a-boon-or-bane" element={<Blogbe />} />
+        <Route path="/blog/digital-marketing-company-in-coimbatore" element={<Blogbe1 />} />
+        <Route path="/blog/significance-of-digital-marketing" element={<Blogbe2 />} />
+        <Route path="/blog/why-professional-advertising-is-still-essential-for-business-growth-in-2026" element={<Blogbe3 />} />
+        <Route path="/blog/effective-social-media-marketing-services-in-coimbatore" element={<SocialMediaMarketingServices />} />
+        <Route path="/blog/best-website-development-company-in-coimbatore" element={<WebsiteDevelopmentCompany />} />
+        <Route path="/blog/digital-marketing-company-in-gandhipuram-coimbatore" element={<OutlineForLongForm/>} />
+        <Route path="/blog/digital-marketing-company-in-rs-puram-coimbatore" element={<DigitalMarketingRspuram/>} />
+        <Route path="/blog/digital-marketing-company-in-peelamedu-coimbatore" element={<DigitalMarketingPeelamedu/>} />
+        <Route path="/blog/best-digital-marketing-agency-in-coimbatore" element={<DigitalMarketingAgency/>} />
+        <Route path="/blog/digital-marketing-saravanampatti-in-coimbatore" element={<DigitalMarketingSaravanampatti/>} />
+        <Route path="/blog/digital-marketing-pollachi-in-coimbatore" element={<DigitalMarketingPollachi/>} />
+        <Route path="/blog/best-branding-company-in-coimbatore" element={<BestBrandingCompany/>} />
+        <Route path="/blog/best-seo-services-in-coimbatore" element={<SEOServicesCoimbatore/>} />
+        <Route path="/digital-marketing-company-in-coimbatore" element={<DigitalMarketingCoimbatore />} />
+        <Route path="*" element={<NotFound />} />
+      </Routes>
+      <Arrow />
+      <Whatsapp />
+      <Instagram />
     </div>
   );
 }

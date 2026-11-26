@@ -24,10 +24,10 @@ const DigitalMarketingRspuram = () => {
                 <div className="col-3 beer2-head">
                     <div className="tony-headb">
                         <div>
-                            <img className="tonyb" src={tony} alt="Kriya & Reeths" />
+                            <img className="tonyb" src={tony} alt="Team Kriya" />
                         </div>
                         <div className="tony-textb ">
-                            <h6>Kriya & Reeths</h6>
+                            <h6>Team Kriya</h6>
                             <p>Coimbatore</p>
                         </div>
                     </div>
@@ -44,7 +44,7 @@ const DigitalMarketingRspuram = () => {
                     </h1>
 
                     <p className="mt-3">
-                    In today's rapidly evolving digital world, businesses in Rs Puram, Coimbatore, need to embrace digital marketing to stay ahead of the competition and drive growth. As a leading <Link to="/">digital marketing company in Rs Puram, Coimbatore</Link>, Kriya & Reeths understands the importance of tailored strategies that boost visibility, engage customers, and ultimately increase sales. Digital marketing tactics like SEO, social media marketing, and pay-per-click advertising are essential for businesses looking to make a mark online. With a proven track record of success and expertise in the local market, Kriya & Reeths helps businesses achieve their goals through effective and customized digital marketing solutions. Whether you're looking to optimize your website's SEO, build a stronger online presence, or run targeted ad campaigns, Kriya & Reeths, your trusted <Link to="/">digital marketing company in Rs Puram, Coimbatore</Link>, is here to support your growth in the digital space.
+                    In today's rapidly evolving digital world, businesses in Rs Puram, Coimbatore, need to embrace digital marketing to stay ahead of the competition and drive growth. As a leading <Link to="/">digital marketing company in Rs Puram, Coimbatore</Link>, Team Kriya understands the importance of tailored strategies that boost visibility, engage customers, and ultimately increase sales. Digital marketing tactics like SEO, social media marketing, and pay-per-click advertising are essential for businesses looking to make a mark online. With a proven track record of success and expertise in the local market, Team Kriya helps businesses achieve their goals through effective and customized digital marketing solutions. Whether you're looking to optimize your website's SEO, build a stronger online presence, or run targeted ad campaigns, Team Kriya, your trusted <Link to="/">digital marketing company in Rs Puram, Coimbatore</Link>, is here to support your growth in the digital space.
                     </p>
 
                     <div className="mt-5"></div>
@@ -54,15 +54,15 @@ const DigitalMarketingRspuram = () => {
                     </p>
 
                     <p>
-                    Choosing a local <Link to="/">digital marketing company in Rs Puram, Coimbatore</Link>, has its unique advantages. When you work with a local agency like Kriya & Reeths, you're teaming up with a company that truly understands the pulse of the area—what works here, the trends that are shaping businesses, and how local customers think and shop. This means the strategies they create are not one-size-fits-all but tailored specifically for your business and your audience. In a competitive place like Coimbatore, where businesses are constantly vying for attention, having a partner who knows how to navigate the local market can make all the difference. With the right digital marketing approach, you can stay ahead of your competitors, engage your local community, and drive meaningful growth. Choosing a digital marketing company in Rs Puram, Coimbatore, like Kriya & Reeths means you're getting strategies that not only speak to your audience but also set you up for long-term success.
+                    Choosing a local <Link to="/">digital marketing company in Rs Puram, Coimbatore</Link>, has its unique advantages. When you work with a local agency like Team Kriya, you're teaming up with a company that truly understands the pulse of the area—what works here, the trends that are shaping businesses, and how local customers think and shop. This means the strategies they create are not one-size-fits-all but tailored specifically for your business and your audience. In a competitive place like Coimbatore, where businesses are constantly vying for attention, having a partner who knows how to navigate the local market can make all the difference. With the right digital marketing approach, you can stay ahead of your competitors, engage your local community, and drive meaningful growth. Choosing a digital marketing company in Rs Puram, Coimbatore, like Team Kriya means you're getting strategies that not only speak to your audience but also set you up for long-term success.
                     </p>
 
                     <p className="sub-head-par">
-                    <b>2. Top Services Offered by Kriya & Reeths</b>
+                    <b>2. Top Services Offered by Team Kriya</b>
                     </p>
 
                     <p>
-                    At <Link to="/">Kriya & Reeths</Link>, your trusted <Link to="/">digital marketing company in Rs Puram, Coimbatore</Link>, we offer a full suite of services designed to help your business stand out in the digital world. Whether you're just starting or looking to take your digital presence to the next level, our team is here to craft strategies that deliver real results.
+                    At <Link to="/">Team Kriya</Link>, your trusted <Link to="/">digital marketing company in Rs Puram, Coimbatore</Link>, we offer a full suite of services designed to help your business stand out in the digital world. Whether you're just starting or looking to take your digital presence to the next level, our team is here to craft strategies that deliver real results.
                     </p>
 
                     <p>
@@ -101,11 +101,11 @@ const DigitalMarketingRspuram = () => {
                     </p>
 
                     <p className="sub-head-par">
-                    <b>3. How Kriya & Reeths is the Best Digital Marketing Agency in Coimbatore</b>
+                    <b>3. How Team Kriya is the Best Digital Marketing Agency in Coimbatore</b>
                     </p>
 
                     <p>
-                    When it comes to growing your business online, choosing the right <Link to="/">digital marketing company in Rs Puram, Coimbatore</Link> digital marketing company in Rs Puram, Coimbatore, can make all the difference. At Kriya & Reeths, we don't just offer digital marketing services—we create strategies that drive real, measurable growth. With years of experience in SEO, social media, paid ads, content marketing, and web development, we help businesses stand out in a crowded online space.
+                    When it comes to growing your business online, choosing the right <Link to="/">digital marketing company in Rs Puram, Coimbatore</Link> digital marketing company in Rs Puram, Coimbatore, can make all the difference. At Team Kriya, we don't just offer digital marketing services—we create strategies that drive real, measurable growth. With years of experience in SEO, social media, paid ads, content marketing, and web development, we help businesses stand out in a crowded online space.
                     </p>
 
                     <p>
@@ -125,7 +125,7 @@ const DigitalMarketingRspuram = () => {
                     </p>
 
                     <p>
-                    With the rapid shift in consumer behavior towards online searches and digital purchases, businesses in Coimbatore must adapt to stay competitive. More people now rely on the internet to discover local services, compare products, and make buying decisions, making it essential for businesses—whether small, medium, or large—to build a strong online presence. A well-planned digital marketing strategy helps businesses in Rs Puram attract more local customers, increase brand visibility, and drive revenue growth. As a leading <Link to="/">digital marketing company in Rs Puram, Coimbatore</Link>, Kriya & Reeths understands the unique needs of the local market and provides tailored strategies to help businesses thrive. From SEO that improves search rankings to social media marketing that boosts engagement, digital marketing is no longer an option but a necessity for growth. By leveraging the right digital tools, businesses in Coimbatore can expand their reach, gain customer trust, and contribute to the city's growing digital economy.
+                    With the rapid shift in consumer behavior towards online searches and digital purchases, businesses in Coimbatore must adapt to stay competitive. More people now rely on the internet to discover local services, compare products, and make buying decisions, making it essential for businesses—whether small, medium, or large—to build a strong online presence. A well-planned digital marketing strategy helps businesses in Rs Puram attract more local customers, increase brand visibility, and drive revenue growth. As a leading <Link to="/">digital marketing company in Rs Puram, Coimbatore</Link>, Team Kriya understands the unique needs of the local market and provides tailored strategies to help businesses thrive. From SEO that improves search rankings to social media marketing that boosts engagement, digital marketing is no longer an option but a necessity for growth. By leveraging the right digital tools, businesses in Coimbatore can expand their reach, gain customer trust, and contribute to the city's growing digital economy.
                     </p>
 
                     <p className="sub-head-par">
@@ -146,11 +146,11 @@ const DigitalMarketingRspuram = () => {
                     </p>
 
                     <p className="sub-head-par">
-                    <b>6. The Process: How We Work at Kriya & Reeths</b>
+                    <b>6. The Process: How We Work at Team Kriya</b>
                     </p>
 
                     <p>
-                    At <Link to="/">Kriya & Reeths</Link>, we know that digital marketing isn't just about running ads or posting on social media—it's about creating a strategy that helps businesses grow. As a trusted digital marketing company in Rs Puram, Coimbatore, we take a personalized approach to every client, ensuring they get real, measurable results. Here's how we make it happen:
+                    At <Link to="/">Team Kriya</Link>, we know that digital marketing isn't just about running ads or posting on social media—it's about creating a strategy that helps businesses grow. As a trusted digital marketing company in Rs Puram, Coimbatore, we take a personalized approach to every client, ensuring they get real, measurable results. Here's how we make it happen:
                     </p>
 
                     <p>
@@ -189,7 +189,7 @@ const DigitalMarketingRspuram = () => {
                     </p>
 
                     <p>
-                    At Kriya & Reeths, we don't just offer services—we partner with you to ensure your business thrives in the digital space. As a top <Link to="/">digital marketing company in Rs Puram, Coimbatore</Link>, we're here to help you attract more customers, boost sales, and stay ahead of the competition. Let's build something great together!
+                    At Team Kriya, we don't just offer services—we partner with you to ensure your business thrives in the digital space. As a top <Link to="/">digital marketing company in Rs Puram, Coimbatore</Link>, we're here to help you attract more customers, boost sales, and stay ahead of the competition. Let's build something great together!
                     </p>
 
                     <p className="sub-head-par">
@@ -197,7 +197,7 @@ const DigitalMarketingRspuram = () => {
                     </p>
 
                     <p>
-                    In today's fast-paced digital world, simply having a business isn't enough—you need to be visible, engaging, and one step ahead of the competition. That's where a trusted <Link to="/">digital marketing company in Rs Puram, Coimbatore</Link>, like <Link to="/">Kriya & Reeths</Link> comes in. We don't just offer marketing services; we create smart, result-driven strategies that help businesses grow, connect with the right audience, and achieve long-term success.
+                    In today's fast-paced digital world, simply having a business isn't enough—you need to be visible, engaging, and one step ahead of the competition. That's where a trusted <Link to="/">digital marketing company in Rs Puram, Coimbatore</Link>, like <Link to="/">Team Kriya</Link> comes in. We don't just offer marketing services; we create smart, result-driven strategies that help businesses grow, connect with the right audience, and achieve long-term success.
                     </p>
 
                     <p>
@@ -205,7 +205,7 @@ const DigitalMarketingRspuram = () => {
                     </p>
 
                     <p>
-                    Contact <Link to="/contact">Kriya & Reeths</Link> today and take the first step toward digital growth. 🚀
+                    Contact <Link to="/reach">Team Kriya</Link> today and take the first step toward digital growth. 🚀
                     </p>
 
                     <div className="pb-5"></div>

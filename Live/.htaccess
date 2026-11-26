@@ -1,8 +1,33 @@
 <IfModule mod_rewrite.c>
   RewriteEngine On
   RewriteBase /
-  RewriteRule ^index\.html$ - [L]
-  RewriteCond %{REQUEST_FILENAME} !-f
+
+  # Enforce HTTPS and canonical non-www host (https://teamkriya.com)
+  RewriteCond %{HTTPS} !=on [OR]
+  RewriteCond %{HTTP_HOST} ^www\.teamkriya\.com$ [NC]
+  RewriteRule ^(.*)$ https://teamkriya.com/$1 [R=301,L]
+
+  # Strip trailing slash on non-root paths to avoid duplicate URLs
   RewriteCond %{REQUEST_FILENAME} !-d
-  RewriteRule . /index.html [L]
+  RewriteCond %{REQUEST_URI} ^(.+)/$
+  RewriteRule ^ %1 [R=301,L]
+
+  # Serve pre-rendered static HTML for known extensionless routes (HTTP 200, no trailing-slash redirect)
+  RewriteCond %{REQUEST_METHOD} GET
+  RewriteCond %{REQUEST_URI} !^/$
+  RewriteCond %{REQUEST_URI} !^/_prerender/
+  RewriteCond %{DOCUMENT_ROOT}/_prerender%{REQUEST_URI}/index.html -f
+  RewriteRule ^(.*)$ /_prerender/$1/index.html [L]
+
+  # Root index.html
+  RewriteRule ^index\.html$ - [L]
+
+  # Allow real static files and directories
+  RewriteCond %{REQUEST_FILENAME} -f [OR]
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteRule ^ - [L]
+
+  # Return real HTTP 404 status with custom 404.html for unknown URLs (prevents soft 404s)
+  ErrorDocument 404 /404.html
+  RewriteRule ^ - [R=404,L]
 </IfModule>

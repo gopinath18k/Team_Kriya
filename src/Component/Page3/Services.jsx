@@ -104,7 +104,7 @@ const Services = () => {
               data-aos-duration="1300">
               <div className='main-input-container-new'>
               <form action="https://script.google.com/macros/s/AKfycbxuNPBVbEb7HV7wtPXtm5qREUJ7ROXNcYA9GDIt44_oaNE754uEawynbIRsM9uwNlfLCg/exec" name='contact-form' onSubmit={handleSubmit} method='post'>
-                <input type="hidden" name="recipient" value="hr@kriyareeths.com" />
+                <input type="hidden" name="recipient" value="hr@teamkriya.com" />
                 <div className='input-group-new'>
           <div className={`floating-label-input-name ${isFocusedName || inputValueName ? 'focused-name' : ''}`}>
           <label className="floating-label-name">Name</label>

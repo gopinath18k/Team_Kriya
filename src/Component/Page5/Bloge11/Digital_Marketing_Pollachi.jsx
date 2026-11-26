@@ -24,10 +24,10 @@ const DigitalMarketingPollachi = () => {
                 <div className="col-3 beer2-head">
                     <div className="tony-headb">
                         <div>
-                            <img className="tonyb" src={tony} alt="Kriya & Reeths" />
+                            <img className="tonyb" src={tony} alt="Team Kriya" />
                         </div>
                         <div className="tony-textb ">
-                            <h6>Kriya & Reeths</h6>
+                            <h6>Team Kriya</h6>
                             <p>Coimbatore</p>
                         </div>
                     </div>
@@ -44,17 +44,17 @@ const DigitalMarketingPollachi = () => {
                     </h1>
 
                     <p className="mt-3">
-                    An effort in the digital universe today is to exist, attract customers, and create a brand. A business owner working in Pollachi or Coimbatore would like digital marketing services that are aware of the local scenario to guide them through their day-to-day online business. Which partner would you choose between numerous such options? <Link to="/">Kriya & Reeths</Link>, one of the leading <Link to="/">digital marketing company in Pollachi, Coimbatore</Link>, provides customized solutions for your business growth. In this blog, we shall demonstrate how to choose the best digital marketing agency and why Kriya & Reeths is the right choice for you.
+                    An effort in the digital universe today is to exist, attract customers, and create a brand. A business owner working in Pollachi or Coimbatore would like digital marketing services that are aware of the local scenario to guide them through their day-to-day online business. Which partner would you choose between numerous such options? <Link to="/">Team Kriya</Link>, one of the leading <Link to="/">digital marketing company in Pollachi, Coimbatore</Link>, provides customized solutions for your business growth. In this blog, we shall demonstrate how to choose the best digital marketing agency and why Team Kriya is the right choice for you.
                     </p>
 
                     <div className="mt-5"></div>
 
                     <p className="sub-head-par">
-                    <b>1. What Makes Kriya & Reeths the Best Digital Marketing Agency in Coimbatore?</b>
+                    <b>1. What Makes Team Kriya the Best Digital Marketing Agency in Coimbatore?</b>
                     </p>
 
                     <p>
-                    A <Link to="/">digital marketing company in Pollachi, Coimbatore</Link>, that understands the minutiae of your business and tailors its offering to your needs is critical. <Link to="/">Kriya & Reeths</Link> offer a complete array of services:
+                    A <Link to="/">digital marketing company in Pollachi, Coimbatore</Link>, that understands the minutiae of your business and tailors its offering to your needs is critical. <Link to="/">Team Kriya</Link> offer a complete array of services:
                     </p>
                     <p>
                     <b>Search Engine Optimization (SEO):</b> Get seen and find an increase in organic traffic.
@@ -103,10 +103,10 @@ const DigitalMarketingPollachi = () => {
                     <b>Comprehensive Digital Marketing Solutions</b>
                     </p>
                     <p>
-                    To climb the SERPs, the full extent of digital marketing strategies has to be taken into consideration. And this is how Kriya & Reeths assist in business expansion:
+                    To climb the SERPs, the full extent of digital marketing strategies has to be taken into consideration. And this is how Team Kriya assist in business expansion:
                     </p>
                     <p>
-                    <b>Search Engine Optimization (SEO):</b> We will optimize your site and content so that they rank higher on Google or any other given search engine. The SEO experts at Kriya & Reeths consider both on-site and off-site SEO for a better future.
+                    <b>Search Engine Optimization (SEO):</b> We will optimize your site and content so that they rank higher on Google or any other given search engine. The SEO experts at Team Kriya consider both on-site and off-site SEO for a better future.
                     </p>
                     <p>
                     <b>Social Media Marketing (SMM):</b> The social platforms play an important role in forming relationships with the customers. We prepare engaging content to create targeted ads that grow followers and conversions through Instagram, Facebook, LinkedIn, and Twitter.
@@ -118,7 +118,7 @@ const DigitalMarketingPollachi = () => {
                     <b>Email Marketing:</b> Build relationships through personalized email campaigns that keep them interested, informed, and motivated to buy.
                     </p>
                     <p>
-                    The Kriya & Reeths attitude is to give results that matter, followed by constant tweaking of strategies to keep the competitive edge in your favor.
+                    The Team Kriya attitude is to give results that matter, followed by constant tweaking of strategies to keep the competitive edge in your favor.
                     </p>
 
                     <p className="sub-head-par">
@@ -167,7 +167,7 @@ const DigitalMarketingPollachi = () => {
                     <b>What is the price of hiring a digital marketing agency in Pollachi?</b>
                     </p>
                     <p>
-                    Prices change depending on the extent of services. Kriya & Reeths, our best <Link to="/">digital marketing company in Pollachi, Coimbatore</Link>, would customize our pricing to suit your business needs.
+                    Prices change depending on the extent of services. Team Kriya, our best <Link to="/">digital marketing company in Pollachi, Coimbatore</Link>, would customize our pricing to suit your business needs.
                     </p>
 
                     <p className="sub-head-par">
@@ -193,7 +193,7 @@ const DigitalMarketingPollachi = () => {
                     <b>Customer testimonials:</b> Check the agency's reviews and case studies to see how they've helped other businesses succeed.
                     </p>
                     <p>
-                    At Kriya & Reeths, we meet all of these criteria, ensuring that your digital marketing efforts are in expert hands.
+                    At Team Kriya, we meet all of these criteria, ensuring that your digital marketing efforts are in expert hands.
                     </p>
 
                     <p className="sub-head-par">
@@ -201,10 +201,10 @@ const DigitalMarketingPollachi = () => {
                     </p>
 
                     <p>
-                    <b>Take Your Business to the Next Level with Kriya & Reeths</b>
+                    <b>Take Your Business to the Next Level with Team Kriya</b>
                     </p>
                     <p>
-                    If you're looking for a <Link to="/">digital marketing company in Pollachi, Coimbatore</Link>, that delivers results, <Link to="/">Kriya & Reeths</Link> is the best choice for you. With our expertise, tailored strategies, and commitment to your success, we help businesses grow online.
+                    If you're looking for a <Link to="/">digital marketing company in Pollachi, Coimbatore</Link>, that delivers results, <Link to="/">Team Kriya</Link> is the best choice for you. With our expertise, tailored strategies, and commitment to your success, we help businesses grow online.
                     </p>
                     <p>
                     Ready to boost your online presence and drive more sales? <Link to="/reach">Get in touch</Link> with us today and let's get started!

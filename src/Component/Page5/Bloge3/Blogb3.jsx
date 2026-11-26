@@ -25,10 +25,10 @@ const Blogbe3 = () => {
         <div className="col-3 beer2-head">
           <div className="tony-headb">
             <div>
-              <img className="tonyb" src={tony} alt="Kriya & Reeths" />
+              <img className="tonyb" src={tony} alt="Team Kriya" />
             </div>
             <div className="tony-textb ">
-              <h6>Kriya & Reeths</h6>
+              <h6>Team Kriya</h6>
               <p>Coimbatore</p>
             </div>
           </div>
@@ -200,7 +200,7 @@ const Blogbe3 = () => {
             Working with experienced professionals helps businesses develop integrated campaigns that balance creativity with data-driven decision-making. From brand awareness initiatives to lead generation campaigns, expert guidance ensures that advertising budgets are used efficiently while maintaining consistent messaging across every customer touchpoint.
           </p>
           <p className="mt-3">
-            Kriya & Reeths focuses on developing customized advertising strategies that align with each business's objectives. Through the integration of market research, innovative campaign creation, precise audience targeting, and ongoing performance enhancement, companies can enhance their brand recognition and achieve significant business growth.
+            Team Kriya focuses on developing customized advertising strategies that align with each business's objectives. Through the integration of market research, innovative campaign creation, precise audience targeting, and ongoing performance enhancement, companies can enhance their brand recognition and achieve significant business growth.
           </p>
 
           <p className="sub-head-par">Frequently Asked Questions</p>
@@ -217,7 +217,7 @@ const Blogbe3 = () => {
 
           <p className="mt-3"><strong>3. Can small businesses benefit from professional advertising?</strong></p>
           <p className="mt-1">
-            Yes, small businesses benefit by running highly targeted, localized campaigns that maximize limited budgets. Instead of broad national campaigns, professional agencies like Kriya & Reeths structure local service ads (LSAs) and geo-targeted social media campaigns. This allows small brands to compete directly with larger competitors for high intent local search queries.
+            Yes, small businesses benefit by running highly targeted, localized campaigns that maximize limited budgets. Instead of broad national campaigns, professional agencies like Team Kriya structure local service ads (LSAs) and geo-targeted social media campaigns. This allows small brands to compete directly with larger competitors for high intent local search queries.
           </p>
 
           <p className="mt-3"><strong>4. Which advertising channels are most effective today?</strong></p>
@@ -227,7 +227,7 @@ const Blogbe3 = () => {
 
           <p className="mt-3"><strong>5. How do businesses choose the right advertising partner in Coimbatore?</strong></p>
           <p className="mt-1">
-            Businesses should evaluate an agency's historical campaign ROI, reporting transparency, and industry-specific expertise. When choosing a local partner like Kriya & Reeths, look for clear communication, a strong portfolio of local and digital campaigns, and real-time performance dashboards that measure actual business growth rather than just impressions.
+            Businesses should evaluate an agency's historical campaign ROI, reporting transparency, and industry-specific expertise. When choosing a local partner like Team Kriya, look for clear communication, a strong portfolio of local and digital campaigns, and real-time performance dashboards that measure actual business growth rather than just impressions.
           </p>
 
           <p className="sub-head-par">Conclusion</p>
@@ -235,7 +235,7 @@ const Blogbe3 = () => {
             As competition continues to increase across every industry, businesses can no longer rely solely on organic visibility or word-of-mouth referrals. Professional advertising helps companies build awareness, communicate value, generate qualified leads, and establish lasting customer relationships through strategic and measurable campaigns.
           </p>
           <p className="mt-3 pb-5">
-            Organizations that invest in well-planned advertising today position themselves for stronger growth tomorrow. For firms in pursuit of the foremost advertising agency in Coimbatore, engaging with seasoned specialists like Kriya & Reeths can furnish the strategic advice, creative capabilities, and results-oriented strategies crucial for realizing sustainable business success in 2026 and the years ahead.
+            Organizations that invest in well-planned advertising today position themselves for stronger growth tomorrow. For firms in pursuit of the foremost advertising agency in Coimbatore, engaging with seasoned specialists like Team Kriya can furnish the strategic advice, creative capabilities, and results-oriented strategies crucial for realizing sustainable business success in 2026 and the years ahead.
           </p>
         </div>
       </div>

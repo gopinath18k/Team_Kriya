@@ -2,180 +2,180 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Main Pages -->
   <url>
-    <loc>https://www.kriyareeths.com/</loc>
-    <lastmod>2026-08-05</lastmod>
+    <loc>https://teamkriya.com/</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.kriyareeths.com/about</loc>
-    <lastmod>2026-08-05</lastmod>
+    <loc>https://teamkriya.com/about</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.kriyareeths.com/services</loc>
-    <lastmod>2026-08-05</lastmod>
+    <loc>https://teamkriya.com/services</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://teamkriya.com/services/social-media-marketing</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://teamkriya.com/services/performance-marketing</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://teamkriya.com/services/website-development</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://teamkriya.com/services/seo-aeo-geo</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://teamkriya.com/services/video-editing</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://teamkriya.com/services/graphic-design</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://teamkriya.com/services/videography</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://teamkriya.com/portfolio</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.kriyareeths.com/services/social-media-marketing</loc>
-    <lastmod>2026-09-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.kriyareeths.com/services/performance-marketing</loc>
-    <lastmod>2026-09-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.kriyareeths.com/services/website-development</loc>
-    <lastmod>2026-09-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.kriyareeths.com/services/seo-aeo-geo</loc>
-    <lastmod>2026-09-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.kriyareeths.com/services/video-editing</loc>
-    <lastmod>2026-09-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.kriyareeths.com/services/graphic-design</loc>
-    <lastmod>2026-09-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.kriyareeths.com/services/videography</loc>
-    <lastmod>2026-09-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.kriyareeths.com/portfolio</loc>
-    <lastmod>2026-08-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.kriyareeths.com/blog</loc>
-    <lastmod>2026-08-05</lastmod>
+    <loc>https://teamkriya.com/blog</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.kriyareeths.com/careers</loc>
-    <lastmod>2026-08-05</lastmod>
+    <loc>https://teamkriya.com/careers</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.kriyareeths.com/reach</loc>
-    <lastmod>2026-08-05</lastmod>
+    <loc>https://teamkriya.com/reach</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <!-- Location Based SEO Landing Pages -->
   <url>
-    <loc>https://www.kriyareeths.com/digital-marketing-company-in-coimbatore</loc>
-    <lastmod>2026-09-28</lastmod>
+    <loc>https://teamkriya.com/digital-marketing-company-in-coimbatore</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <priority>0.9</priority>
   </url>
 
   <!-- Blog Articles -->
   <url>
-    <loc>https://www.kriyareeths.com/blog/digital-marketing-a-boon-or-bane</loc>
-    <lastmod>2026-08-05</lastmod>
+    <loc>https://teamkriya.com/blog/digital-marketing-a-boon-or-bane</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.kriyareeths.com/blog/digital-marketing-company-in-coimbatore</loc>
-    <lastmod>2026-08-05</lastmod>
+    <loc>https://teamkriya.com/blog/digital-marketing-company-in-coimbatore</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.kriyareeths.com/blog/significance-of-digital-marketing</loc>
-    <lastmod>2026-08-05</lastmod>
+    <loc>https://teamkriya.com/blog/significance-of-digital-marketing</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.kriyareeths.com/blog/why-professional-advertising-is-still-essential-for-business-growth-in-2026</loc>
-    <lastmod>2026-08-05</lastmod>
+    <loc>https://teamkriya.com/blog/why-professional-advertising-is-still-essential-for-business-growth-in-2026</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.kriyareeths.com/blog/effective-social-media-marketing-services-in-coimbatore</loc>
-    <lastmod>2026-08-05</lastmod>
+    <loc>https://teamkriya.com/blog/effective-social-media-marketing-services-in-coimbatore</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.kriyareeths.com/blog/best-website-development-company-in-coimbatore</loc>
-    <lastmod>2026-08-05</lastmod>
+    <loc>https://teamkriya.com/blog/best-website-development-company-in-coimbatore</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.kriyareeths.com/blog/digital-marketing-company-in-gandhipuram-coimbatore</loc>
-    <lastmod>2026-08-05</lastmod>
+    <loc>https://teamkriya.com/blog/digital-marketing-company-in-gandhipuram-coimbatore</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.kriyareeths.com/blog/digital-marketing-company-in-rs-puram-coimbatore</loc>
-    <lastmod>2026-08-05</lastmod>
+    <loc>https://teamkriya.com/blog/digital-marketing-company-in-rs-puram-coimbatore</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.kriyareeths.com/blog/digital-marketing-company-in-peelamedu-coimbatore</loc>
-    <lastmod>2026-08-05</lastmod>
+    <loc>https://teamkriya.com/blog/digital-marketing-company-in-peelamedu-coimbatore</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.kriyareeths.com/blog/best-digital-marketing-agency-in-coimbatore</loc>
-    <lastmod>2026-08-05</lastmod>
+    <loc>https://teamkriya.com/blog/best-digital-marketing-agency-in-coimbatore</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.kriyareeths.com/blog/digital-marketing-saravanampatti-in-coimbatore</loc>
-    <lastmod>2026-08-05</lastmod>
+    <loc>https://teamkriya.com/blog/digital-marketing-saravanampatti-in-coimbatore</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.kriyareeths.com/blog/digital-marketing-pollachi-in-coimbatore</loc>
-    <lastmod>2026-08-05</lastmod>
+    <loc>https://teamkriya.com/blog/digital-marketing-pollachi-in-coimbatore</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.kriyareeths.com/blog/best-branding-company-in-coimbatore</loc>
-    <lastmod>2026-08-05</lastmod>
+    <loc>https://teamkriya.com/blog/best-branding-company-in-coimbatore</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.kriyareeths.com/blog/best-seo-services-in-coimbatore</loc>
-    <lastmod>2026-08-05</lastmod>
+    <loc>https://teamkriya.com/blog/best-seo-services-in-coimbatore</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

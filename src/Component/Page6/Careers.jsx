@@ -27,7 +27,7 @@ const Careers = () => {
         <h1 className="head2">Careers</h1>
 
         <p className="head3-p">
-          At Kriya & Reeths, we welcome creative thinkers, passionate marketers, and talented professionals who are eager to learn, innovate, and grow. As a digital marketing and creative agency in Coimbatore, we bring together design, strategy, technology, and imagination to deliver meaningful results for our clients. Whether your expertise lies in graphic design, logo creation, SEO, social media marketing, website development, or content creation, explore our career opportunities and become part of a team that values creativity, collaboration, and continuous growth.
+          At Team Kriya, we welcome creative thinkers, passionate marketers, and talented professionals who are eager to learn, innovate, and grow. As a digital marketing and creative agency in Coimbatore, we bring together design, strategy, technology, and imagination to deliver meaningful results for our clients. Whether your expertise lies in graphic design, logo creation, SEO, social media marketing, website development, or content creation, explore our career opportunities and become part of a team that values creativity, collaboration, and continuous growth.
         </p>
       </div>
       <div className="service-exampless">
@@ -58,12 +58,12 @@ const Careers = () => {
             contact us at:{" "}
             <a
               className="mail-link"
-              href="https://mail.google.com/mail/?view=cm&fs=1&to=hr@kriyareeths.com&su=General%20Career%20Inquiry%20-%20Kriya%20%26%20Reeths"
+              href="https://mail.google.com/mail/?view=cm&fs=1&to=hr@teamkriya.com&su=General%20Career%20Inquiry%20-%20Team%20Kriya"
               target="_blank"
               rel="noopener noreferrer"
-              onClick={(e) => handleMailRedirect(e, "hr@kriyareeths.com", "General Career Inquiry - Kriya & Reeths")}
+              onClick={(e) => handleMailRedirect(e, "hr@teamkriya.com", "General Career Inquiry - Team Kriya")}
             >
-              hr@kriyareeths.com
+              hr@teamkriya.com
             </a>.
           </p>
           <p className="carrer-mail-text" data-aos="zoom-in" data-aos-duration="1300">
@@ -71,12 +71,12 @@ const Careers = () => {
             to reach out to our recruiting team at:{" "}
             <a
               className="mail-link"
-              href="https://mail.google.com/mail/?view=cm&fs=1&to=careers@kriyareeths.com&su=Job%20Opening%20Inquiry%20-%20Kriya%20%26%20Reeths"
+              href="https://mail.google.com/mail/?view=cm&fs=1&to=careers@teamkriya.com&su=Job%20Opening%20Inquiry%20-%20Team%20Kriya"
               target="_blank"
               rel="noopener noreferrer"
-              onClick={(e) => handleMailRedirect(e, "careers@kriyareeths.com", "Job Opening Inquiry - Kriya & Reeths")}
+              onClick={(e) => handleMailRedirect(e, "careers@teamkriya.com", "Job Opening Inquiry - Team Kriya")}
             >
-              careers@kriyareeths.com
+              careers@teamkriya.com
             </a>.
           </p>
         </div>

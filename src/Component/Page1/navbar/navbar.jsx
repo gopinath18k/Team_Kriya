@@ -50,7 +50,7 @@ const Navbare = () => {
       <div className="nav-container">
         <div className='nav-main-cont'>
           <div>
-            <Link to='/'><img className='nav-logo' src={logo} alt="kriyareeths" /></Link>
+            <Link to='/'><img className='nav-logo' src={logo} alt="Team Kriya" /></Link>
           </div>
           <div className='navigation-cont'>
             <ul>
@@ -80,9 +80,9 @@ const Navbare = () => {
             </ul>
             
             <div className='social-ic mt-5'>
-              <a href='https://www.facebook.com/p/Kriya-Reeths-100092974173622/'><img src={soc1} alt="Facebook" /></a>
-              <a href='https://www.instagram.com/teamkriya/'><img src={soc2} alt="Instagram" /></a>
-              <a href='https://x.com/i/flow/login?redirect_after_login=%2Fkriyareeths'><img src={soc3} alt="Twitter" /></a>
+              <a href='https://www.facebook.com/p/Kriya-Reeths-100092974173622/' target='_blank' rel='noopener noreferrer' aria-label='Facebook'><img src={soc1} alt="Facebook" /></a>
+              <a href='https://www.instagram.com/teamkriya/' target='_blank' rel='noopener noreferrer' aria-label='Instagram'><img src={soc2} alt="Instagram" /></a>
+              <a href='https://x.com/teamkriya' target='_blank' rel='noopener noreferrer' aria-label='X (Twitter)'><img src={soc3} alt="Twitter" /></a>
             </div>
           </div>
         </div>

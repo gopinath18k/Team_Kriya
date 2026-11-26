@@ -91,7 +91,7 @@ const Reachus = () => {
                 data-aos-duration="1300">
                 <h1 className='head2'>Reach Us</h1>
                 <p className='head3-p'>
-                    Have a project in mind or need help with your digital marketing strategy? Get in touch with Kriya & Reeths, the best digital marketing company in Coimbatore, to discuss your business goals and explore tailored solutions for your brand. Whether you need SEO, social media marketing, performance marketing, website development, or creative services, our team is ready to understand your requirements and help you strengthen your online presence. Contact us today to start a conversation about your next project.
+                    Have a project in mind or need help with your digital marketing strategy? Get in touch with Team Kriya, the best digital marketing company in Coimbatore, to discuss your business goals and explore tailored solutions for your brand. Whether you need SEO, social media marketing, performance marketing, website development, or creative services, our team is ready to understand your requirements and help you strengthen your online presence. Contact us today to start a conversation about your next project.
                 </p>
             </div>
 
@@ -111,8 +111,9 @@ const Reachus = () => {
                     >
                         {!mapVisible && <img className='out-map' src={map} alt="digital marketing company in coimbatore location map" />}
                         <iframe
+                            title="Team Kriya Office Location Map"
                             className={`mapee ${mapVisible ? 'visible' : ''}`}
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3916.0612230211805!2d76.89752997369968!3d11.034033554392035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x275489eeb28f2419%3A0x5b9b13955026b9d!2sKriya%20%26%20Reeths!5e0!3m2!1sen!2sin!4v1722408690065!5m2!1sen!2sin"
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3916.0612230211805!2d76.89752997369968!3d11.034033554392035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x275489eeb28f2419%3A0x5b9b13955026b9d!2sTeam%20Kriya!5e0!3m2!1sen!2sin!4v1722408690065!5m2!1sen!2sin"
                             width="570"
                             height="420"
                             allowFullScreen=""
@@ -135,7 +136,7 @@ const Reachus = () => {
                             </div>
                             <div className='add-icon-head'>
                                 <img className='add-icon' src={ymail} alt="Email Icon" />
-                                <p>info@kriyareeths.com</p>
+                                <p>info@teamkriya.com</p>
                             </div>
                             <div className='add-icon-head'>
                                 <img className='add-icon' src={ycall} alt="Phone Icon" />
@@ -159,7 +160,7 @@ const Reachus = () => {
                         data-aos-duration="1300">
                         <div className='main-input-container-new'>
                             <form action="https://script.google.com/macros/s/AKfycbxuNPBVbEb7HV7wtPXtm5qREUJ7ROXNcYA9GDIt44_oaNE754uEawynbIRsM9uwNlfLCg/exec" name='contact-form' onSubmit={handleSubmit} method='post'>
-                                <input type="hidden" name="recipient" value="hr@kriyareeths.com" />
+                                <input type="hidden" name="recipient" value="hr@teamkriya.com" />
                                 <div className='input-group-new'>
                                     <div className={`floating-label-input-name ${isFocusedName || inputValueName ? 'focused-name' : ''}`}>
                                         <label className="floating-label-name">Name</label>

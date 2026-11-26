@@ -24,10 +24,10 @@ const DigitalMarketingPeelamedu = () => {
                 <div className="col-3 beer2-head">
                     <div className="tony-headb">
                         <div>
-                            <img className="tonyb" src={tony} alt="Kriya & Reeths" />
+                            <img className="tonyb" src={tony} alt="Team Kriya" />
                         </div>
                         <div className="tony-textb ">
-                            <h6>Kriya & Reeths</h6>
+                            <h6>Team Kriya</h6>
                             <p>Coimbatore</p>
                         </div>
                     </div>
@@ -40,21 +40,21 @@ const DigitalMarketingPeelamedu = () => {
                     <h6>Digital Marketing</h6>
 
                     <h1 className="mt-2">
-                    "Digital Marketing Company in Peelamedu, Coimbatore: Boost Your Business with Kriya & Reeths"
+                    "Digital Marketing Company in Peelamedu, Coimbatore: Boost Your Business with Team Kriya"
                     </h1>
 
                     <p className="mt-3">
-                    In today's digital-first world, businesses in Peelamedu, Coimbatore, need to adapt quickly to stay ahead. A strong online presence isn't just an advantage—it's a necessity. It helps you attract new customers, engage with your audience, and build a brand that stands out. If you're looking for a <Link to="/">digital marketing company in Peelamedu, Coimbatore</Link>, you're in the right place! At Kriya & Reeths, we offer customized digital marketing solutions designed to help businesses grow and succeed. In this blog, we'll walk you through why digital marketing is crucial, the services we provide, and how we can help you achieve real results.
+                    In today's digital-first world, businesses in Peelamedu, Coimbatore, need to adapt quickly to stay ahead. A strong online presence isn't just an advantage—it's a necessity. It helps you attract new customers, engage with your audience, and build a brand that stands out. If you're looking for a <Link to="/">digital marketing company in Peelamedu, Coimbatore</Link>, you're in the right place! At Team Kriya, we offer customized digital marketing solutions designed to help businesses grow and succeed. In this blog, we'll walk you through why digital marketing is crucial, the services we provide, and how we can help you achieve real results.
                     </p>
 
                     <div className="mt-5"></div>
 
                     <p className="sub-head-par">
-                    <b>1. Why Choose Kriya & Reeths as Your Digital Marketing Company in Peelamedu?</b>
+                    <b>1. Why Choose Team Kriya as Your Digital Marketing Company in Peelamedu?</b>
                     </p>
 
                     <p>
-                    Choosing the right <Link to="/">digital marketing company in Peelamedu</Link> can make all the difference in your business's success. At Kriya & Reeths, we take pride in delivering strategies that drive real growth. Here's why we stand out:
+                    Choosing the right <Link to="/">digital marketing company in Peelamedu</Link> can make all the difference in your business's success. At Team Kriya, we take pride in delivering strategies that drive real growth. Here's why we stand out:
                     </p>
 
                     <p>
@@ -79,7 +79,7 @@ const DigitalMarketingPeelamedu = () => {
                     </p>
 
                     <p>
-                    When you partner with Kriya & Reeths, you're choosing a <Link to="/">digital marketing company in Peelamedu</Link> that's committed to helping your business thrive. Ready to grow? Let's get started! 🚀
+                    When you partner with Team Kriya, you're choosing a <Link to="/">digital marketing company in Peelamedu</Link> that's committed to helping your business thrive. Ready to grow? Let's get started! 🚀
                     </p>
 
                     <p className="sub-head-par">
@@ -87,14 +87,14 @@ const DigitalMarketingPeelamedu = () => {
                     </p>
 
                     <p>
-                    At Kriya & Reeths, we offer a full range of <Link to="/">digital marketing services in Coimbatore</Link> to help your business succeed online. Here's a look at what we can do for you:
+                    At Team Kriya, we offer a full range of <Link to="/">digital marketing services in Coimbatore</Link> to help your business succeed online. Here's a look at what we can do for you:
                     </p>
 
                     <p>
                     <b>Search Engine Optimization (SEO):</b>
                     </p>
                     <p>
-                    Do you want more customers to find your business online? SEO makes that possible! At Kriya & Reeths, a leading <Link to="/">digital marketing company in Peelamedu</Link>, we help businesses rank higher on Google and attract the right audience.
+                    Do you want more customers to find your business online? SEO makes that possible! At Team Kriya, a leading <Link to="/">digital marketing company in Peelamedu</Link>, we help businesses rank higher on Google and attract the right audience.
                     </p>
                     <p>
                     Here's how we improve your online presence:
@@ -113,7 +113,7 @@ const DigitalMarketingPeelamedu = () => {
                     <b>Social Media Marketing:</b>
                     </p>
                     <p>
-                    Social media isn't just about being online—it's about building real connections and growing your business. At Kriya & Reeths, a trusted <Link to="/">digital marketing company in Peelamedu</Link>, we help businesses craft engaging social media strategies that deliver real results. From creating compelling content to running targeted ad campaigns and boosting engagement, we focus on what works to ensure your brand reaches the right audience and stays ahead of the competition.
+                    Social media isn't just about being online—it's about building real connections and growing your business. At Team Kriya, a trusted <Link to="/">digital marketing company in Peelamedu</Link>, we help businesses craft engaging social media strategies that deliver real results. From creating compelling content to running targeted ad campaigns and boosting engagement, we focus on what works to ensure your brand reaches the right audience and stays ahead of the competition.
                     </p>
                     <p>
                     Why Social Media Matters for Your Business:
@@ -128,14 +128,14 @@ const DigitalMarketingPeelamedu = () => {
                     <b>Engage with Your Audience:</b> Build trust, loyalty, and meaningful connections.
                     </p>
                     <p>
-                    At Kriya & Reeths, we don't just manage social media—we help businesses grow. If you're looking for a digital marketing company in Peelamedu to elevate your brand, let's work together! 🚀
+                    At Team Kriya, we don't just manage social media—we help businesses grow. If you're looking for a digital marketing company in Peelamedu to elevate your brand, let's work together! 🚀
                     </p>
 
                     <p>
                     <b>Pay-Per-Click (PPC) Advertising:</b>
                     </p>
                     <p>
-                    Looking for a fast and effective way to drive traffic and generate leads? PPC advertising is the answer! At Kriya & Reeths, a trusted <Link to="/">digital marketing company in Peelamedu</Link>, we create high-converting campaigns on platforms like Google Ads and Facebook Ads, ensuring your brand reaches the right audience. Our expert team focuses on maximizing your return on investment (ROI) so that every ad dollar you spend delivers real business results.
+                    Looking for a fast and effective way to drive traffic and generate leads? PPC advertising is the answer! At Team Kriya, a trusted <Link to="/">digital marketing company in Peelamedu</Link>, we create high-converting campaigns on platforms like Google Ads and Facebook Ads, ensuring your brand reaches the right audience. Our expert team focuses on maximizing your return on investment (ROI) so that every ad dollar you spend delivers real business results.
                     </p>
                     <p>
                     Why Choose PPC for Your Business?
@@ -157,7 +157,7 @@ const DigitalMarketingPeelamedu = () => {
                     <b>Website Development and Design:</b>
                     </p>
                     <p>
-                    Your website is your business's digital storefront, and making a strong first impression is crucial. At Kriya & Reeths, a leading <Link to="/">digital marketing company in Peelamedu, Coimbatore</Link>, we create user-friendly, responsive websites that are visually appealing and optimized for top performance. Whether you need a sleek landing page or a feature-rich e-commerce site, our expert team ensures your website is designed to attract visitors, enhance user experience, and drive business growth.
+                    Your website is your business's digital storefront, and making a strong first impression is crucial. At Team Kriya, a leading <Link to="/">digital marketing company in Peelamedu, Coimbatore</Link>, we create user-friendly, responsive websites that are visually appealing and optimized for top performance. Whether you need a sleek landing page or a feature-rich e-commerce site, our expert team ensures your website is designed to attract visitors, enhance user experience, and drive business growth.
                     </p>
                     <p>
                     Why a Great Website is Essential?
@@ -179,7 +179,7 @@ const DigitalMarketingPeelamedu = () => {
                     <b>Content Marketing:</b>
                     </p>
                     <p>
-                    Content is king! At Kriya & Reeths, a leading <Link to="/">digital marketing company in Peelamedu, Coimbatore</Link>, we create high-quality content that educates, informs, and engages your target audience. From blog posts and videos to infographics and social media content, we develop strategies that help build trust and credibility with your customers. Great content not only boosts brand awareness but also keeps your audience coming back for more, strengthening long-term customer relationships.
+                    Content is king! At Team Kriya, a leading <Link to="/">digital marketing company in Peelamedu, Coimbatore</Link>, we create high-quality content that educates, informs, and engages your target audience. From blog posts and videos to infographics and social media content, we develop strategies that help build trust and credibility with your customers. Great content not only boosts brand awareness but also keeps your audience coming back for more, strengthening long-term customer relationships.
                     </p>
                     <p>
                     Content Marketing Benefits:
@@ -194,7 +194,7 @@ const DigitalMarketingPeelamedu = () => {
                     <b>Authority-Building in Your Industry:</b> Position your brand as a trusted leader in your niche.
                     </p>
                     <p>
-                    At Kriya & Reeths, we don't just create content we craft compelling stories that drive real results. Let's take your brand to the next level with strategic content marketing! 🚀
+                    At Team Kriya, we don't just create content we craft compelling stories that drive real results. Let's take your brand to the next level with strategic content marketing! 🚀
                     </p>
 
                     <p className="sub-head-par">
@@ -262,11 +262,11 @@ const DigitalMarketingPeelamedu = () => {
                     </p>
 
                     <p className="sub-head-par">
-                    <b>6. Conclusion: Unlock Your Business Potential with Kriya & Reeths</b>
+                    <b>6. Conclusion: Unlock Your Business Potential with Team Kriya</b>
                     </p>
 
                     <p>
-                    Choosing the right <Link to="/">digital marketing company in Peelamedu, Coimbatore</Link>, can make all the difference in your business's success. At <Link to="/">Kriya & Reeths</Link>, we help businesses like yours unlock their full potential with expert strategies designed to deliver real, measurable results. Whether you want to boost your online presence, attract more customers, or increase sales, we're here to guide you every step of the way.
+                    Choosing the right <Link to="/">digital marketing company in Peelamedu, Coimbatore</Link>, can make all the difference in your business's success. At <Link to="/">Team Kriya</Link>, we help businesses like yours unlock their full potential with expert strategies designed to deliver real, measurable results. Whether you want to boost your online presence, attract more customers, or increase sales, we're here to guide you every step of the way.
                     </p>
 
                     <p>

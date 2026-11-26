@@ -13,7 +13,7 @@ const handleMailRedirect = (e, subject) => {
   const isMobile = typeof navigator !== 'undefined' && /Android|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
   if (isMobile) {
     e.preventDefault();
-    window.location.href = `mailto:careers@kriyareeths.com?subject=${encodeURIComponent(subject)}`;
+    window.location.href = `mailto:careers@teamkriya.com?subject=${encodeURIComponent(subject)}`;
   }
 };
 
@@ -33,17 +33,17 @@ let slides = [
         <div className="career-txt">
           <h2 className="services-head">Careers</h2>
           <p className="services-paragraph">
-          At Kriya & Reeths, you'll have the opportunity to work on exciting projects, learn from industry experts, and grow your career.
+          At Team Kriya, you'll have the opportunity to work on exciting projects, learn from industry experts, and grow your career.
           Explore our current openings, internship opportunities, and training programs below.
  
           </p>
           
           <a
             className="Carrers-Link"
-            href="https://mail.google.com/mail/?view=cm&fs=1&to=careers@kriyareeths.com&su=Application%20for%20Careers%20-%20Kriya%20%26%20Reeths"
+            href="https://mail.google.com/mail/?view=cm&fs=1&to=careers@teamkriya.com&su=Application%20for%20Careers%20-%20Team%20Kriya"
             target="_blank"
             rel="noopener noreferrer"
-            onClick={(e) => handleMailRedirect(e, "Application for Careers - Kriya & Reeths")}
+            onClick={(e) => handleMailRedirect(e, "Application for Careers - Team Kriya")}
           >
             <div className='career-but'>Register</div>
           </a>
@@ -71,10 +71,10 @@ let slides = [
           </p>
           <a
             className="Carrers-Link"
-            href="https://mail.google.com/mail/?view=cm&fs=1&to=careers@kriyareeths.com&su=Application%20for%20Internship%20Opportunities%20-%20Kriya%20%26%20Reeths"
+            href="https://mail.google.com/mail/?view=cm&fs=1&to=careers@teamkriya.com&su=Application%20for%20Internship%20Opportunities%20-%20Team%20Kriya"
             target="_blank"
             rel="noopener noreferrer"
-            onClick={(e) => handleMailRedirect(e, "Application for Internship Opportunities - Kriya & Reeths")}
+            onClick={(e) => handleMailRedirect(e, "Application for Internship Opportunities - Team Kriya")}
           >
             <div className='career-but'>Register</div>
           </a>
@@ -102,10 +102,10 @@ let slides = [
           </p>
           <a
             className="Carrers-Link"
-            href="https://mail.google.com/mail/?view=cm&fs=1&to=careers@kriyareeths.com&su=Registration%20for%20Student%20Workshops%20-%20Kriya%20%26%20Reeths"
+            href="https://mail.google.com/mail/?view=cm&fs=1&to=careers@teamkriya.com&su=Registration%20for%20Student%20Workshops%20-%20Team%20Kriya"
             target="_blank"
             rel="noopener noreferrer"
-            onClick={(e) => handleMailRedirect(e, "Registration for Student Workshops - Kriya & Reeths")}
+            onClick={(e) => handleMailRedirect(e, "Registration for Student Workshops - Team Kriya")}
           >
             <div className='career-but'>Register</div>
           </a>
@@ -135,10 +135,10 @@ let slides = [
           </p>
           <a
             className="Carrers-Link"
-            href="https://mail.google.com/mail/?view=cm&fs=1&to=careers@kriyareeths.com&su=Registration%20for%20Digital%20Marketing%20Training%20-%20Kriya%20%26%20Reeths"
+            href="https://mail.google.com/mail/?view=cm&fs=1&to=careers@teamkriya.com&su=Registration%20for%20Digital%20Marketing%20Training%20-%20Team%20Kriya"
             target="_blank"
             rel="noopener noreferrer"
-            onClick={(e) => handleMailRedirect(e, "Registration for Digital Marketing Training - Kriya & Reeths")}
+            onClick={(e) => handleMailRedirect(e, "Registration for Digital Marketing Training - Team Kriya")}
           >
             <div className='career-but'>Register</div>
           </a>

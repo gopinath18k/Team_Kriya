@@ -285,7 +285,7 @@ const SMMService = () => {
             </h2>
 
             <p className="smm-feature-desc">
-              As a social media marketing company in Coimbatore, Kriya & Reeths develops full-funnel strategies that help businesses increase brand awareness, connect with relevant audiences, and convert engagement into meaningful business opportunities.
+              As a social media marketing company in Coimbatore, Team Kriya develops full-funnel strategies that help businesses increase brand awareness, connect with relevant audiences, and convert engagement into meaningful business opportunities.
             </p>
 
             <div className="smm-feature-list">
@@ -494,7 +494,7 @@ const SMMService = () => {
                   onSubmit={handleSubmit}
                   method="post"
                 >
-                  <input type="hidden" name="recipient" value="hr@kriyareeths.com" />
+                  <input type="hidden" name="recipient" value="hr@teamkriya.com" />
                   <div className="input-group-new">
                     <div
                       className={`floating-label-input-name ${
